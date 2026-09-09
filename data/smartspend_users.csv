@@ -1,0 +1,501 @@
+user_id,name,age,gender,city,education_level,employment_status,job_title,monthly_income_inr,monthly_expenses_inr,savings_inr,has_loan,loan_type,loan_amount_inr,loan_term_months,monthly_emi_inr,loan_interest_rate_pct,debt_to_income_ratio,credit_score,savings_to_income_ratio,record_date
+U00001,Sneha Patel,50,Female,Bangalore,Bachelor,Employed,Software Engineer,347737.42,296615.38,10490625.2,No,,0.0,0,0.0,0.0,0.0,366,2.51,2023-03-31
+U00002,Anjali Singh,43,Female,Mumbai,Bachelor,Employed,Business Owner,269840.27,143266.8,15911233.12,Yes,Business,41246392.3,24,1902740.38,9.97,7.05,698,4.91,2021-12-23
+U00003,Vikram Reddy,22,Male,Delhi,Bachelor,Employed,Teacher,340548.07,245157.67,11942677.68,No,,0.0,0,0.0,0.0,0.0,600,2.92,2024-05-06
+U00004,Karthik Menon,31,Female,Bangalore,Bachelor,Employed,Software Engineer,175251.47,84749.16,19801038.86,No,,0.0,0,0.0,0.0,0.0,598,9.42,2022-10-21
+U00005,Sanjay Rao,41,Female,Chennai,High School,Employed,Business Owner,182699.67,112423.56,4301978.45,No,,0.0,0,0.0,0.0,0.0,568,1.96,2024-04-29
+U00006,Pooja Iyer,18,Female,Bangalore,Bachelor,Employed,Software Engineer,101986.9,65486.54,4863500.08,No,,0.0,0,0.0,0.0,0.0,811,3.97,2023-08-26
+U00007,Vikram Reddy,60,Female,Hyderabad,Master,Employed,Business Owner,214132.41,171123.23,22420264.36,No,,0.0,0,0.0,0.0,0.0,540,8.73,2021-12-30
+U00008,Kavitha Nair,53,Female,Coimbatore,PhD,Employed,Government Employee,148614.14,98626.02,10548304.5,No,,0.0,0,0.0,0.0,0.0,486,5.91,2023-12-10
+U00009,Riya Choudhary,60,Male,Coimbatore,High School,Self-employed,Doctor,529273.93,365426.06,34201404.61,Yes,Business,25289984.84,36,818294.16,10.19,1.55,363,5.38,2025-04-04
+U00010,Harish Pandey,29,Male,Kallakurichi,Bachelor,Self-employed,Business Owner,417319.64,268890.88,12572053.92,No,,0.0,0,0.0,0.0,0.0,828,2.51,2023-07-30
+U00011,Sanjay Rao,33,Female,Kolkata,High School,Employed,Accountant,681342.46,567545.32,66381887.94,No,,0.0,0,0.0,0.0,0.0,426,8.12,2025-02-19
+U00012,Kavitha Nair,19,Female,Kolkata,Master,Unemployed,Freelancer,285834.7,115272.58,2926190.7,Yes,Business,40580919.01,36,1660646.33,27.18,5.81,381,0.85,2024-08-21
+U00013,Harish Pandey,61,Male,Chennai,Bachelor,Employed,Business Owner,604430.62,211219.1,6645403.44,No,,0.0,0,0.0,0.0,0.0,531,0.92,2024-10-14
+U00014,Kavitha Nair,42,Female,Bangalore,Master,Employed,Teacher,293639.44,185590.44,22827950.6,Yes,Education,11624686.3,24,593068.77,20.25,2.02,844,6.48,2022-08-03
+U00015,Harish Pandey,33,Male,Delhi,High School,Unemployed,Bank Manager,290491.49,87195.71,23389333.63,No,,0.0,0,0.0,0.0,0.0,391,6.71,2024-06-02
+U00016,Ravi Shankar,33,Male,Hyderabad,Master,Self-employed,Government Employee,479987.22,148674.26,42132718.08,Yes,Education,34969319.04,240,258872.54,6.41,0.54,826,7.31,2023-11-28
+U00017,Anjali Singh,66,Female,Delhi,Bachelor,Employed,Doctor,581271.89,237797.98,42236217.16,No,,0.0,0,0.0,0.0,0.0,739,6.06,2022-05-07
+U00018,Lakshmi Pillai,60,Male,Chennai,Master,Employed,Government Employee,274277.46,87831.14,24060296.21,Yes,Business,24234574.07,24,1054111.51,4.16,3.84,349,7.31,2024-11-12
+U00019,Amit Bose,53,Male,Hyderabad,High School,Employed,Accountant,267119.84,119740.67,30425874.46,Yes,Business,18296374.71,12,1627836.68,12.26,6.09,515,9.49,2023-04-11
+U00020,Rahul Verma,26,Male,Hyderabad,Bachelor,Student,Software Engineer,386530.68,120624.94,36651859.9,No,,0.0,0,0.0,0.0,0.0,798,7.9,2021-11-17
+U00021,Anjali Singh,44,Female,Kallakurichi,High School,Unemployed,Teacher,358183.27,263748.94,2837061.13,No,,0.0,0,0.0,0.0,0.0,538,0.66,2024-02-17
+U00022,Karthik Menon,29,Male,Delhi,High School,Unemployed,Doctor,41750.0,18062.72,1293163.66,No,,0.0,0,0.0,0.0,0.0,738,2.58,2021-10-19
+U00023,Arjun Sharma,56,Male,Chennai,Bachelor,Employed,Doctor,476097.8,200583.7,19242878.1,No,,0.0,0,0.0,0.0,0.0,696,3.37,2024-05-09
+U00024,Neha Malhotra,33,Male,Coimbatore,Bachelor,Employed,Government Employee,146535.82,125533.9,8262269.89,Yes,Car,6249651.02,360,73555.98,13.9,0.5,406,4.7,2022-12-18
+U00025,Divya Krishnan,24,Female,Chennai,Bachelor,Employed,Government Employee,319548.65,211943.04,36463888.88,Yes,Education,16585043.88,36,677888.9,27.09,2.12,823,9.51,2024-02-14
+U00026,Meera Joshi,22,Female,Chennai,Master,Self-employed,Government Employee,302020.34,122454.42,32653285.38,Yes,Business,10496788.34,24,458020.88,4.47,1.52,810,9.01,2023-09-22
+U00027,Harish Pandey,34,Female,Mumbai,Other,Employed,Software Engineer,250387.28,89107.02,27985954.36,Yes,Car,14196766.02,60,287112.24,7.89,1.15,419,9.31,2025-04-22
+U00028,Divya Krishnan,27,Male,Pune,High School,Self-employed,Government Employee,339360.7,141217.7,31024561.94,Yes,Car,3251408.17,300,71313.18,26.28,0.21,660,7.62,2024-02-20
+U00029,Karthik Menon,65,Male,Madurai,Master,Employed,Student,230041.66,161697.75,21964105.53,No,,0.0,0,0.0,0.0,0.0,683,7.96,2024-04-05
+U00030,Amit Bose,36,Female,Hyderabad,Master,Self-employed,Business Owner,367549.46,256919.48,35575247.65,No,,0.0,0,0.0,0.0,0.0,423,8.07,2024-10-07
+U00031,Riya Choudhary,20,Female,Mumbai,Bachelor,Employed,Business Owner,238730.68,153431.25,11020745.0,No,,0.0,0,0.0,0.0,0.0,388,3.85,2022-11-11
+U00032,Sanjay Rao,33,Male,Kolkata,Master,Student,Bank Manager,85475.61,38020.06,4489795.84,No,,0.0,0,0.0,0.0,0.0,314,4.38,2023-09-06
+U00033,Ravi Shankar,42,Female,Pune,PhD,Unemployed,Student,603305.87,192295.49,40567943.1,No,,0.0,0,0.0,0.0,0.0,377,5.6,2022-06-12
+U00034,Suresh Babu,28,Other,Mumbai,Bachelor,Employed,Accountant,312947.98,107553.01,28422344.56,Yes,Home,23090415.32,36,926886.74,25.72,2.96,746,7.57,2025-05-11
+U00035,Sneha Patel,67,Male,Kolkata,High School,Self-employed,Software Engineer,41750.0,34503.03,3734853.13,No,,0.0,0,0.0,0.0,0.0,802,7.45,2023-01-14
+U00036,Harish Pandey,38,Male,Delhi,Bachelor,Self-employed,Sales Executive,160800.96,122704.08,1268390.88,No,,0.0,0,0.0,0.0,0.0,406,0.66,2024-12-14
+U00037,Meera Joshi,62,Male,Bangalore,Other,Employed,Software Engineer,373511.36,143900.56,28290176.58,No,,0.0,0,0.0,0.0,0.0,648,6.31,2021-10-17
+U00038,Arjun Sharma,61,Male,Mumbai,Other,Self-employed,Teacher,347471.89,312629.85,29436768.52,No,,0.0,0,0.0,0.0,0.0,434,7.06,2023-10-26
+U00039,Swati Mishra,21,Male,Madurai,Master,Unemployed,Accountant,571823.03,461615.56,21179238.1,Yes,Car,26701604.12,240,612620.3,27.41,1.07,368,3.09,2023-10-27
+U00040,Anjali Singh,59,Male,Kallakurichi,Bachelor,Student,Accountant,558089.78,414031.41,43156644.34,No,,0.0,0,0.0,0.0,0.0,352,6.44,2024-04-19
+U00041,Pooja Iyer,60,Male,Mumbai,Master,Employed,Government Employee,365856.92,253565.28,7327443.14,No,,0.0,0,0.0,0.0,0.0,425,1.67,2024-10-23
+U00042,Karthik Menon,36,Other,Kallakurichi,Other,Employed,Student,229991.56,199372.95,18789498.99,No,,0.0,0,0.0,0.0,0.0,603,6.81,2023-04-17
+U00043,Harish Pandey,55,Female,Madurai,Bachelor,Employed,Student,138630.04,93334.63,13438011.54,No,,0.0,0,0.0,0.0,0.0,743,8.08,2021-11-27
+U00044,Karthik Menon,18,Female,Kallakurichi,Bachelor,Employed,Freelancer,149372.32,94009.31,11980764.54,Yes,Business,2573307.17,60,54763.48,10.07,0.37,623,6.68,2021-12-02
+U00045,Harish Pandey,40,Male,Hyderabad,Master,Self-employed,Bank Manager,220016.66,88961.74,19289238.98,No,,0.0,0,0.0,0.0,0.0,329,7.31,2023-02-12
+U00046,Pooja Iyer,48,Male,Coimbatore,Bachelor,Employed,Software Engineer,133772.01,81206.26,6203403.71,Yes,Education,17988480.15,120,464274.2,29.25,3.47,547,3.86,2022-04-13
+U00047,Meera Joshi,28,Female,Mumbai,High School,Employed,Government Employee,512035.36,287371.93,31532331.28,Yes,Business,28970771.72,300,429667.62,17.57,0.84,607,5.13,2025-07-15
+U00048,Karthik Menon,50,Male,Bangalore,Master,Student,Accountant,218735.76,181675.12,3270123.86,No,,0.0,0,0.0,0.0,0.0,786,1.25,2023-12-31
+U00049,Vikram Reddy,35,Female,Madurai,Bachelor,Student,Government Employee,169264.52,117153.84,15279676.69,Yes,Business,28699368.34,240,517675.78,21.33,3.06,487,7.52,2023-01-21
+U00050,Karthik Menon,59,Male,Mumbai,High School,Employed,Freelancer,272375.33,169731.28,22269257.95,No,,0.0,0,0.0,0.0,0.0,699,6.81,2025-05-14
+U00051,Rahul Verma,61,Female,Pune,Bachelor,Student,Student,180057.73,82875.42,17389054.52,Yes,Education,12156938.68,300,85458.08,6.94,0.47,447,8.05,2021-07-25
+U00052,Lakshmi Pillai,63,Other,Pune,Bachelor,Employed,Student,356327.06,132328.3,27602078.97,Yes,Car,12091190.78,120,282430.4,25.86,0.79,458,6.46,2024-01-02
+U00053,Harish Pandey,45,Male,Madurai,Master,Employed,Government Employee,41750.0,18724.04,2291533.08,No,,0.0,0,0.0,0.0,0.0,588,4.57,2022-11-18
+U00054,Ravi Shankar,24,Male,Kolkata,Bachelor,Student,Business Owner,104853.46,91764.83,10965216.66,No,,0.0,0,0.0,0.0,0.0,837,8.71,2023-08-11
+U00055,Anjali Singh,24,Male,Bangalore,Bachelor,Self-employed,Software Engineer,166422.18,129010.84,7285968.68,No,,0.0,0,0.0,0.0,0.0,840,3.65,2022-02-08
+U00056,Rahul Verma,34,Male,Kolkata,Master,Unemployed,Freelancer,281503.55,125126.42,1528639.51,Yes,Business,9157283.85,36,306388.22,12.51,1.09,480,0.45,2022-05-31
+U00057,Arjun Sharma,63,Male,Bangalore,Master,Unemployed,Software Engineer,441795.16,324453.44,41444821.7,No,,0.0,0,0.0,0.0,0.0,312,7.82,2024-02-15
+U00058,Ravi Shankar,30,Male,Delhi,Master,Employed,Accountant,499026.06,213501.15,8304882.44,Yes,Home,22736895.52,24,1241168.22,27.41,2.49,535,1.39,2025-05-20
+U00059,Neha Malhotra,46,Male,Mumbai,High School,Employed,Student,258072.62,92367.7,23080715.96,No,,0.0,0,0.0,0.0,0.0,315,7.45,2023-09-18
+U00060,Ravi Shankar,55,Female,Delhi,Bachelor,Employed,Sales Executive,421916.32,209558.28,21835847.02,No,,0.0,0,0.0,0.0,0.0,404,4.31,2022-05-09
+U00061,Lakshmi Pillai,38,Female,Bangalore,Bachelor,Student,Freelancer,425804.08,299681.5,13248723.72,No,,0.0,0,0.0,0.0,0.0,684,2.59,2023-12-03
+U00062,Priya Nair,22,Male,Hyderabad,Master,Employed,Teacher,321005.73,101296.36,480072.4,No,,0.0,0,0.0,0.0,0.0,432,0.12,2023-01-14
+U00063,Vikram Reddy,32,Male,Coimbatore,High School,Employed,Bank Manager,300064.76,249351.88,20866191.58,No,,0.0,0,0.0,0.0,0.0,828,5.79,2023-11-26
+U00064,Anjali Singh,42,Female,Kolkata,Master,Unemployed,Accountant,282395.33,208766.7,21283355.08,No,,0.0,0,0.0,0.0,0.0,600,6.28,2022-06-10
+U00065,Priya Nair,21,Male,Hyderabad,High School,Employed,Government Employee,50593.48,29084.72,1799420.82,No,,0.0,0,0.0,0.0,0.0,617,2.96,2024-06-09
+U00066,Deepika Rajan,31,Female,Madurai,High School,Self-employed,Teacher,313065.72,193503.74,9537692.31,No,,0.0,0,0.0,0.0,0.0,301,2.54,2025-07-22
+U00067,Sanjay Rao,59,Female,Chennai,Bachelor,Employed,Government Employee,483820.71,157566.17,36670449.51,No,,0.0,0,0.0,0.0,0.0,598,6.32,2022-08-29
+U00068,Manish Tiwari,18,Male,Coimbatore,Bachelor,Employed,Student,331880.77,282558.15,33301829.88,No,,0.0,0,0.0,0.0,0.0,312,8.36,2022-07-12
+U00069,Priya Nair,34,Male,Kallakurichi,High School,Self-employed,Sales Executive,493961.78,197472.49,42937000.93,No,,0.0,0,0.0,0.0,0.0,359,7.24,2023-03-09
+U00070,Neha Malhotra,47,Male,Pune,Master,Employed,Government Employee,619499.02,490269.42,67322663.24,No,,0.0,0,0.0,0.0,0.0,775,9.06,2023-04-13
+U00071,Anjali Singh,42,Female,Mumbai,Bachelor,Self-employed,Accountant,295060.61,262842.14,27593779.07,Yes,Education,24157516.93,24,1244555.81,21.27,4.22,614,7.79,2024-09-22
+U00072,Aditya Kumar,51,Male,Pune,High School,Self-employed,Software Engineer,389536.68,342573.78,35356746.52,No,,0.0,0,0.0,0.0,0.0,455,7.56,2023-02-09
+U00073,Priya Nair,68,Male,Kallakurichi,High School,Employed,Doctor,544055.94,429398.75,28795094.4,No,,0.0,0,0.0,0.0,0.0,794,4.41,2025-04-03
+U00074,Rahul Verma,20,Female,Kolkata,Other,Employed,Bank Manager,436280.82,174198.54,43548791.24,No,,0.0,0,0.0,0.0,0.0,741,8.32,2025-04-15
+U00075,Meera Joshi,52,Male,Coimbatore,Master,Employed,Business Owner,377273.04,246949.58,3278917.24,Yes,Car,33774591.02,24,1703515.23,19.06,4.52,719,0.72,2024-12-21
+U00076,Deepika Rajan,53,Male,Bangalore,Master,Unemployed,Government Employee,359092.58,151784.63,32031434.16,No,,0.0,0,0.0,0.0,0.0,597,7.43,2024-06-12
+U00077,Arjun Sharma,48,Male,Hyderabad,High School,Student,Sales Executive,428656.44,150698.3,3352455.7,No,,0.0,0,0.0,0.0,0.0,761,0.65,2023-04-10
+U00078,Ravi Shankar,51,Female,Delhi,Bachelor,Self-employed,Government Employee,599804.72,376447.22,49632489.34,Yes,Car,26236744.58,24,1438892.88,27.91,2.4,480,6.9,2023-03-06
+U00079,Anjali Singh,59,Male,Pune,Bachelor,Employed,Business Owner,221593.14,95367.86,22362081.56,Yes,Business,14971574.22,12,1347779.34,14.5,6.08,584,8.41,2022-03-15
+U00080,Anjali Singh,49,Female,Coimbatore,Master,Employed,Freelancer,41750.0,19422.94,3673743.66,No,,0.0,0,0.0,0.0,0.0,759,7.33,2023-12-22
+U00081,Riya Choudhary,38,Male,Pune,Bachelor,Self-employed,Business Owner,350041.18,254618.22,20373192.56,No,,0.0,0,0.0,0.0,0.0,553,4.85,2021-09-13
+U00082,Vikram Reddy,29,Female,Hyderabad,Bachelor,Employed,Student,419002.16,269209.01,7422985.5,Yes,Business,28011136.28,240,601818.74,25.62,1.44,584,1.48,2021-08-31
+U00083,Manish Tiwari,57,Male,Chennai,Master,Student,Sales Executive,377364.06,279825.2,11122456.34,No,,0.0,0,0.0,0.0,0.0,321,2.46,2023-10-17
+U00084,Vikram Reddy,64,Female,Madurai,High School,Student,Student,302233.26,135956.37,672005.5,No,,0.0,0,0.0,0.0,0.0,309,0.19,2024-12-27
+U00085,Sneha Patel,45,Male,Chennai,Bachelor,Self-employed,Government Employee,328634.29,270165.09,13813923.54,Yes,Car,3209969.62,180,33287.28,9.38,0.1,846,3.5,2021-08-06
+U00086,Deepika Rajan,51,Female,Chennai,Bachelor,Employed,Doctor,165303.28,139618.68,695370.47,Yes,Car,28575359.14,180,722185.66,29.97,4.37,629,0.35,2023-09-07
+U00087,Divya Krishnan,33,Male,Bangalore,High School,Employed,Bank Manager,475798.86,325940.58,9310416.17,Yes,Car,4058626.88,180,60090.78,16.17,0.13,824,1.63,2025-03-31
+U00088,Arjun Sharma,60,Male,Hyderabad,Master,Employed,Accountant,440517.61,303752.12,35402024.39,Yes,Car,29908849.14,36,944010.08,8.49,2.14,559,6.7,2023-01-26
+U00089,Rahul Verma,18,Male,Kallakurichi,Master,Employed,Accountant,280080.71,250844.02,28949885.87,No,,0.0,0,0.0,0.0,0.0,445,8.61,2022-12-25
+U00090,Karthik Menon,66,Male,Kolkata,Bachelor,Employed,Sales Executive,499708.26,277024.61,36219958.66,No,,0.0,0,0.0,0.0,0.0,335,6.04,2022-04-20
+U00091,Swati Mishra,41,Male,Hyderabad,Bachelor,Self-employed,Government Employee,41750.0,33201.27,307864.5,No,,0.0,0,0.0,0.0,0.0,818,0.61,2023-07-16
+U00092,Aditya Kumar,68,Female,Pune,Master,Self-employed,Doctor,271831.74,113008.06,26611883.36,Yes,Home,3828693.77,360,19353.63,4.48,0.07,491,8.16,2022-08-23
+U00093,Manish Tiwari,23,Male,Mumbai,High School,Student,Student,181758.62,114107.76,13055535.62,Yes,Business,12466993.38,300,222626.86,21.32,1.22,751,5.99,2024-01-28
+U00094,Divya Krishnan,57,Female,Kallakurichi,Bachelor,Employed,Business Owner,282052.14,213325.8,9423836.72,No,,0.0,0,0.0,0.0,0.0,779,2.78,2022-02-19
+U00095,Divya Krishnan,48,Male,Bangalore,Bachelor,Self-employed,Bank Manager,307593.12,144515.95,8372246.07,No,,0.0,0,0.0,0.0,0.0,543,2.27,2024-07-15
+U00096,Sneha Patel,39,Female,Coimbatore,High School,Unemployed,Teacher,370094.55,177037.54,17299474.06,Yes,Education,34556898.34,300,341949.2,11.13,0.92,537,3.9,2022-06-17
+U00097,Sanjay Rao,25,Female,Kolkata,High School,Self-employed,Government Employee,364380.64,124976.96,27579615.8,No,,0.0,0,0.0,0.0,0.0,384,6.31,2025-06-20
+U00098,Ravi Shankar,61,Male,Chennai,Master,Self-employed,Doctor,113164.21,56570.42,2932554.24,Yes,Car,27156112.15,12,2455808.48,15.37,21.7,620,2.16,2023-10-18
+U00099,Swati Mishra,42,Male,Kolkata,PhD,Employed,Doctor,184126.68,68177.75,11313899.3,No,,0.0,0,0.0,0.0,0.0,351,5.12,2024-07-29
+U00100,Riya Choudhary,48,Female,Hyderabad,Master,Self-employed,Business Owner,379251.99,312870.32,1095859.01,Yes,Business,31542762.1,300,389383.05,14.4,1.03,509,0.24,2023-02-03
+U00101,Pooja Iyer,56,Male,Hyderabad,Bachelor,Self-employed,Doctor,259575.62,211519.7,6506475.31,Yes,Business,19467471.4,240,244347.72,14.16,0.94,447,2.09,2023-08-05
+U00102,Sanjay Rao,45,Female,Mumbai,Bachelor,Employed,Student,225521.81,171175.84,5999407.36,No,,0.0,0,0.0,0.0,0.0,669,2.22,2025-07-13
+U00103,Manish Tiwari,21,Male,Bangalore,Bachelor,Employed,Government Employee,708971.78,314511.1,65924763.02,Yes,Car,26309198.37,240,311611.98,13.18,0.44,599,7.75,2023-01-11
+U00104,Rahul Verma,38,Male,Hyderabad,High School,Self-employed,Teacher,347550.38,111183.59,40933338.27,Yes,Car,10395778.39,24,547614.71,23.61,1.58,548,9.81,2022-10-27
+U00105,Anjali Singh,46,Female,Bangalore,Bachelor,Employed,Accountant,564389.02,315174.09,48343637.62,No,,0.0,0,0.0,0.0,0.0,507,7.14,2021-10-19
+U00106,Manish Tiwari,57,Male,Delhi,High School,Employed,Government Employee,41750.0,37260.2,4689618.85,No,,0.0,0,0.0,0.0,0.0,391,9.36,2023-08-29
+U00107,Ravi Shankar,64,Female,Coimbatore,Master,Employed,Bank Manager,113194.27,84016.03,3535283.12,Yes,Car,14786825.46,180,143625.01,8.27,1.27,438,2.6,2021-10-26
+U00108,Arjun Sharma,36,Female,Pune,Master,Employed,Business Owner,167529.39,132057.76,1975180.81,Yes,Business,21073911.2,12,1992740.86,24.0,11.89,791,0.98,2024-03-19
+U00109,Sanjay Rao,42,Male,Kolkata,Bachelor,Unemployed,Business Owner,325319.34,140477.06,19132593.81,Yes,Education,7832096.26,180,91145.26,11.43,0.28,591,4.9,2023-12-19
+U00110,Vikram Reddy,57,Female,Chennai,Master,Employed,Freelancer,228466.02,73884.98,21140928.29,No,,0.0,0,0.0,0.0,0.0,613,7.71,2023-05-22
+U00111,Harish Pandey,20,Male,Hyderabad,High School,Employed,Software Engineer,524323.22,430832.44,12406920.14,No,,0.0,0,0.0,0.0,0.0,392,1.97,2022-06-27
+U00112,Vikram Reddy,53,Female,Mumbai,Bachelor,Employed,Software Engineer,328283.59,250772.21,2693574.73,Yes,Car,14474166.38,180,283631.97,22.71,0.86,458,0.68,2024-08-20
+U00113,Meera Joshi,18,Male,Coimbatore,Master,Employed,Sales Executive,359672.08,140651.58,31837909.56,No,,0.0,0,0.0,0.0,0.0,330,7.38,2024-01-09
+U00114,Sneha Patel,31,Male,Coimbatore,Master,Self-employed,Bank Manager,295688.53,247843.86,15871448.7,No,,0.0,0,0.0,0.0,0.0,617,4.47,2024-05-27
+U00115,Ravi Shankar,27,Female,Kolkata,PhD,Employed,Sales Executive,285152.5,91610.36,15477484.85,Yes,Business,41202639.96,12,3880568.98,23.22,13.61,607,4.52,2024-04-19
+U00116,Kavitha Nair,67,Male,Pune,PhD,Employed,Doctor,202231.99,60861.48,1685429.96,Yes,Home,26397851.99,120,425081.8,14.95,2.1,789,0.69,2024-02-29
+U00117,Arjun Sharma,38,Female,Kolkata,Bachelor,Self-employed,Doctor,548776.19,417833.16,15226709.3,Yes,Home,21435674.94,24,1133862.36,24.05,2.07,674,2.31,2025-06-02
+U00118,Swati Mishra,47,Male,Mumbai,Bachelor,Unemployed,Freelancer,398487.88,275124.15,9300092.22,No,,0.0,0,0.0,0.0,0.0,427,1.94,2024-03-21
+U00119,Anjali Singh,35,Male,Delhi,Bachelor,Self-employed,Software Engineer,436723.37,287563.98,33854720.12,No,,0.0,0,0.0,0.0,0.0,336,6.46,2024-09-17
+U00120,Vikram Reddy,47,Female,Hyderabad,Bachelor,Employed,Teacher,108387.18,75463.12,9274160.46,No,,0.0,0,0.0,0.0,0.0,676,7.13,2022-12-11
+U00121,Sanjay Rao,22,Female,Kallakurichi,Bachelor,Employed,Sales Executive,538965.78,465635.24,21164943.73,Yes,Car,41085832.65,120,888164.45,23.38,1.65,843,3.27,2024-02-22
+U00122,Harish Pandey,19,Female,Mumbai,High School,Employed,Accountant,559976.88,209089.84,54938802.46,No,,0.0,0,0.0,0.0,0.0,526,8.18,2022-07-24
+U00123,Neha Malhotra,34,Male,Pune,Bachelor,Self-employed,Teacher,99936.14,81923.52,2820309.36,No,,0.0,0,0.0,0.0,0.0,530,2.35,2024-07-23
+U00124,Divya Krishnan,51,Female,Kolkata,Master,Employed,Student,491719.81,440052.52,1460053.44,No,,0.0,0,0.0,0.0,0.0,670,0.25,2022-04-01
+U00125,Harish Pandey,60,Male,Madurai,Master,Employed,Business Owner,244038.77,129226.27,24080529.93,No,,0.0,0,0.0,0.0,0.0,771,8.22,2024-04-04
+U00126,Manish Tiwari,18,Male,Kallakurichi,Master,Self-employed,Teacher,411507.2,329216.28,25524399.4,No,,0.0,0,0.0,0.0,0.0,413,5.17,2024-05-12
+U00127,Sneha Patel,39,Male,Pune,Bachelor,Employed,Freelancer,260914.96,200885.97,20473785.84,Yes,Car,8708328.56,24,444963.15,20.41,1.71,344,6.54,2022-08-01
+U00128,Amit Bose,60,Male,Coimbatore,Bachelor,Employed,Business Owner,375284.07,273461.66,34494719.24,No,,0.0,0,0.0,0.0,0.0,422,7.66,2025-05-12
+U00129,Deepika Rajan,49,Female,Chennai,High School,Employed,Government Employee,323115.78,243873.44,3621111.94,No,,0.0,0,0.0,0.0,0.0,493,0.93,2024-02-20
+U00130,Anjali Singh,40,Female,Chennai,Master,Employed,Bank Manager,488271.26,207259.52,25703080.22,No,,0.0,0,0.0,0.0,0.0,444,4.39,2023-10-01
+U00131,Sneha Patel,56,Male,Delhi,Other,Employed,Sales Executive,386210.88,134131.89,36288413.63,No,,0.0,0,0.0,0.0,0.0,426,7.83,2022-04-03
+U00132,Divya Krishnan,51,Female,Coimbatore,Master,Unemployed,Sales Executive,414291.93,286189.57,1461657.48,No,,0.0,0,0.0,0.0,0.0,827,0.29,2023-08-15
+U00133,Rohit Gupta,21,Male,Delhi,Master,Self-employed,Software Engineer,348369.52,256080.3,37166895.42,Yes,Car,7531320.91,24,343513.99,8.84,0.99,561,8.89,2025-02-25
+U00134,Lakshmi Pillai,42,Male,Chennai,Bachelor,Employed,Freelancer,475747.93,296531.88,9561162.49,No,,0.0,0,0.0,0.0,0.0,413,1.67,2021-08-06
+U00135,Vikram Reddy,57,Female,Kolkata,Bachelor,Student,Bank Manager,394442.31,304940.33,30769729.12,Yes,Business,23480149.9,300,562814.22,28.74,1.43,377,6.5,2023-03-18
+U00136,Sanjay Rao,54,Male,Bangalore,Bachelor,Student,Doctor,303841.47,235617.8,34592207.16,Yes,Car,10992500.28,300,190122.82,20.63,0.63,658,9.49,2022-12-12
+U00137,Pooja Iyer,44,Female,Hyderabad,Bachelor,Employed,Freelancer,254865.38,84863.56,21708942.89,No,,0.0,0,0.0,0.0,0.0,346,7.1,2023-01-23
+U00138,Lakshmi Pillai,36,Male,Pune,Bachelor,Employed,Student,390665.6,260944.18,7088036.11,No,,0.0,0,0.0,0.0,0.0,511,1.51,2023-06-16
+U00139,Anjali Singh,30,Male,Madurai,Master,Self-employed,Teacher,341646.93,197092.56,8183291.42,Yes,Education,23109132.68,120,291861.72,8.93,0.85,308,2.0,2023-03-02
+U00140,Ravi Shankar,53,Female,Mumbai,Bachelor,Employed,Software Engineer,446339.23,303240.27,18953613.23,No,,0.0,0,0.0,0.0,0.0,710,3.54,2023-07-20
+U00141,Suresh Babu,47,Female,Mumbai,Master,Self-employed,Government Employee,213174.66,100243.42,17158036.74,No,,0.0,0,0.0,0.0,0.0,619,6.71,2022-01-24
+U00142,Anjali Singh,44,Female,Delhi,Master,Employed,Government Employee,205513.54,111986.02,15329716.57,No,,0.0,0,0.0,0.0,0.0,710,6.22,2024-04-30
+U00143,Amit Bose,29,Female,Bangalore,High School,Employed,Teacher,340765.17,280477.34,8484766.49,Yes,Business,4478176.81,180,75787.1,19.13,0.22,734,2.07,2023-12-21
+U00144,Anjali Singh,51,Female,Kallakurichi,Bachelor,Employed,Teacher,360057.01,151844.75,42613942.77,No,,0.0,0,0.0,0.0,0.0,326,9.86,2023-05-05
+U00145,Sanjay Rao,52,Female,Delhi,PhD,Employed,Student,80126.6,43512.68,7303453.58,No,,0.0,0,0.0,0.0,0.0,586,7.6,2022-07-05
+U00146,Karthik Menon,36,Male,Madurai,Master,Self-employed,Student,390380.04,185717.36,4740840.26,No,,0.0,0,0.0,0.0,0.0,626,1.01,2024-12-19
+U00147,Neha Malhotra,28,Male,Kolkata,Bachelor,Unemployed,Teacher,585933.69,319900.19,39464151.6,No,,0.0,0,0.0,0.0,0.0,643,5.61,2021-11-26
+U00148,Ravi Shankar,54,Female,Pune,Master,Employed,Freelancer,297452.88,146611.8,24168262.54,Yes,Business,3216597.02,300,32837.21,11.56,0.11,703,6.77,2024-10-29
+U00149,Divya Krishnan,45,Male,Coimbatore,Bachelor,Self-employed,Software Engineer,609277.79,304805.06,54328045.88,No,,0.0,0,0.0,0.0,0.0,822,7.43,2025-05-16
+U00150,Harish Pandey,67,Female,Coimbatore,Master,Unemployed,Freelancer,104314.88,93789.7,376504.0,Yes,Home,32987731.28,12,2885437.69,9.04,27.66,649,0.3,2024-08-03
+U00151,Meera Joshi,53,Female,Delhi,Bachelor,Employed,Teacher,332397.64,254288.4,26796645.48,No,,0.0,0,0.0,0.0,0.0,422,6.72,2025-04-11
+U00152,Kavitha Nair,45,Other,Hyderabad,Bachelor,Employed,Doctor,355882.84,267520.64,29479378.58,No,,0.0,0,0.0,0.0,0.0,354,6.9,2021-10-06
+U00153,Swati Mishra,55,Male,Delhi,Bachelor,Employed,Teacher,282036.28,153691.77,18807740.4,No,,0.0,0,0.0,0.0,0.0,341,5.56,2023-10-01
+U00154,Priya Nair,45,Male,Madurai,High School,Employed,Business Owner,417908.32,368043.78,27800875.77,No,,0.0,0,0.0,0.0,0.0,786,5.54,2023-04-25
+U00155,Rahul Verma,53,Male,Pune,Bachelor,Self-employed,Sales Executive,462213.42,222488.26,40700131.96,Yes,Home,19973716.03,300,198224.82,11.17,0.43,414,7.34,2022-01-05
+U00156,Suresh Babu,31,Male,Hyderabad,Bachelor,Employed,Doctor,245984.32,111568.52,12171860.96,Yes,Car,8533945.49,120,131734.61,13.85,0.54,609,4.12,2024-06-21
+U00157,Neha Malhotra,68,Female,Bangalore,High School,Employed,Bank Manager,231110.46,189912.4,7401273.0,No,,0.0,0,0.0,0.0,0.0,555,2.67,2022-10-12
+U00158,Anjali Singh,57,Male,Mumbai,High School,Employed,Government Employee,122685.72,101557.71,6541869.29,No,,0.0,0,0.0,0.0,0.0,347,4.44,2025-02-18
+U00159,Rohit Gupta,53,Female,Kolkata,High School,Employed,Freelancer,648628.0,465764.67,46706653.52,No,,0.0,0,0.0,0.0,0.0,527,6.0,2021-09-03
+U00160,Meera Joshi,20,Male,Pune,Master,Student,Government Employee,561784.66,267725.22,58938717.98,Yes,Education,22078814.49,12,2065496.92,21.91,3.68,824,8.74,2021-11-19
+U00161,Amit Bose,25,Female,Delhi,Master,Employed,Teacher,132596.33,95759.47,4146279.34,Yes,Car,7399313.26,360,44077.98,5.94,0.33,733,2.61,2024-02-09
+U00162,Riya Choudhary,59,Male,Kolkata,High School,Employed,Doctor,180195.5,65733.7,9724589.52,No,,0.0,0,0.0,0.0,0.0,538,4.5,2021-12-06
+U00163,Swati Mishra,56,Female,Kolkata,Bachelor,Student,Sales Executive,467753.64,330482.14,49398276.86,Yes,Business,7492610.31,300,44811.11,5.23,0.1,607,8.8,2025-03-16
+U00164,Meera Joshi,47,Male,Madurai,Master,Student,Sales Executive,445206.97,386321.1,10052024.76,No,,0.0,0,0.0,0.0,0.0,541,1.88,2024-09-10
+U00165,Deepika Rajan,48,Female,Bangalore,Bachelor,Employed,Doctor,446342.57,162264.72,33366879.72,No,,0.0,0,0.0,0.0,0.0,592,6.23,2021-12-22
+U00166,Amit Bose,69,Male,Chennai,Master,Employed,Teacher,155951.28,51348.32,3537361.44,Yes,Home,23533088.9,60,706264.71,26.12,4.53,496,1.89,2024-04-29
+U00167,Pooja Iyer,66,Male,Chennai,PhD,Employed,Business Owner,76943.58,36735.82,5171115.76,No,,0.0,0,0.0,0.0,0.0,806,5.6,2022-09-28
+U00168,Kavitha Nair,52,Female,Kallakurichi,High School,Self-employed,Government Employee,415084.34,315736.04,4348133.08,No,,0.0,0,0.0,0.0,0.0,397,0.87,2021-11-09
+U00169,Lakshmi Pillai,36,Female,Madurai,Other,Unemployed,Accountant,315802.85,123585.84,16913380.91,No,,0.0,0,0.0,0.0,0.0,304,4.46,2024-12-22
+U00170,Meera Joshi,32,Female,Bangalore,Master,Employed,Software Engineer,467903.94,356743.73,8694036.7,Yes,Education,30960914.06,12,2831722.98,17.54,6.05,345,1.55,2023-09-28
+U00171,Lakshmi Pillai,37,Female,Mumbai,Master,Student,Business Owner,278764.75,148162.4,10115564.92,No,,0.0,0,0.0,0.0,0.0,813,3.02,2025-02-03
+U00172,Vikram Reddy,42,Female,Coimbatore,Bachelor,Employed,Government Employee,511137.74,312137.2,11234843.17,No,,0.0,0,0.0,0.0,0.0,397,1.83,2024-05-05
+U00173,Rahul Verma,59,Male,Bangalore,Bachelor,Employed,Sales Executive,369464.12,177232.92,6274322.76,No,,0.0,0,0.0,0.0,0.0,624,1.42,2021-12-11
+U00174,Neha Malhotra,32,Female,Hyderabad,PhD,Employed,Bank Manager,66150.37,54856.16,5158137.35,Yes,Business,32269752.35,240,451377.62,16.1,6.82,633,6.5,2022-05-10
+U00175,Deepika Rajan,40,Male,Delhi,High School,Employed,Freelancer,100903.07,53688.83,1087028.88,Yes,Business,22748955.43,300,523608.46,27.59,5.19,429,0.9,2023-09-11
+U00176,Divya Krishnan,24,Female,Chennai,Bachelor,Employed,Doctor,331722.96,201811.15,17454015.86,No,,0.0,0,0.0,0.0,0.0,473,4.38,2022-11-06
+U00177,Sneha Patel,64,Male,Kolkata,Bachelor,Employed,Teacher,357530.3,271860.97,5875625.3,No,,0.0,0,0.0,0.0,0.0,671,1.37,2023-09-29
+U00178,Arjun Sharma,26,Male,Madurai,Master,Employed,Bank Manager,571548.32,460363.89,18440139.16,No,,0.0,0,0.0,0.0,0.0,544,2.69,2024-02-13
+U00179,Deepika Rajan,20,Female,Kolkata,Bachelor,Employed,Sales Executive,350700.84,298717.08,25406798.84,Yes,Home,17804909.58,24,898299.68,19.09,2.56,524,6.04,2025-06-27
+U00180,Neha Malhotra,63,Female,Madurai,Master,Student,Accountant,581166.68,247460.6,6998328.72,No,,0.0,0,0.0,0.0,0.0,814,1.0,2025-01-06
+U00181,Deepika Rajan,32,Female,Hyderabad,Bachelor,Self-employed,Sales Executive,595888.57,283291.28,20343317.09,No,,0.0,0,0.0,0.0,0.0,342,2.84,2024-03-11
+U00182,Anjali Singh,19,Male,Delhi,Master,Employed,Business Owner,558960.69,381913.14,53044066.38,No,,0.0,0,0.0,0.0,0.0,782,7.91,2021-09-16
+U00183,Rohit Gupta,36,Male,Mumbai,Other,Self-employed,Doctor,507096.34,406860.43,3749296.12,No,,0.0,0,0.0,0.0,0.0,621,0.62,2022-10-13
+U00184,Amit Bose,26,Female,Pune,Other,Employed,Freelancer,618740.01,427067.43,66638834.14,No,,0.0,0,0.0,0.0,0.0,555,8.98,2022-10-24
+U00185,Sanjay Rao,52,Male,Delhi,High School,Self-employed,Accountant,401068.87,350569.74,34040196.17,Yes,Car,2057018.32,60,56451.01,21.69,0.14,446,7.07,2022-10-23
+U00186,Deepika Rajan,68,Female,Madurai,Bachelor,Self-employed,Business Owner,334930.19,151181.76,36041929.98,No,,0.0,0,0.0,0.0,0.0,595,8.97,2025-03-22
+U00187,Deepika Rajan,38,Male,Mumbai,High School,Self-employed,Doctor,193274.11,60627.68,20058596.28,Yes,Home,6148569.26,60,194494.04,28.82,1.01,628,8.65,2024-10-16
+U00188,Rahul Verma,48,Female,Chennai,PhD,Employed,Accountant,325356.91,108577.56,34985054.62,Yes,Business,14562784.1,12,1234702.81,3.2,3.79,369,8.96,2023-12-23
+U00189,Anjali Singh,28,Male,Kallakurichi,Bachelor,Employed,Accountant,189121.66,157486.01,14419607.48,Yes,Education,36872512.83,240,260773.84,5.84,1.38,560,6.35,2023-07-26
+U00190,Karthik Menon,18,Female,Kolkata,Bachelor,Employed,Accountant,404758.74,352038.5,6791761.41,No,,0.0,0,0.0,0.0,0.0,484,1.4,2025-02-12
+U00191,Rohit Gupta,24,Male,Coimbatore,PhD,Employed,Government Employee,235822.37,87773.53,792617.07,Yes,Education,18665822.13,240,415916.0,26.6,1.76,838,0.28,2025-01-14
+U00192,Rohit Gupta,61,Male,Coimbatore,High School,Employed,Freelancer,596897.24,423174.66,43557827.6,No,,0.0,0,0.0,0.0,0.0,599,6.08,2022-08-09
+U00193,Harish Pandey,45,Other,Mumbai,Master,Employed,Sales Executive,291287.24,189925.76,11627324.07,Yes,Business,10117522.15,180,193274.11,22.06,0.66,607,3.33,2023-10-14
+U00194,Manish Tiwari,21,Female,Bangalore,Master,Employed,Software Engineer,238598.74,126684.53,1153737.03,Yes,Business,40238125.62,180,605629.68,16.52,2.54,819,0.4,2025-02-12
+U00195,Anjali Singh,58,Male,Bangalore,Bachelor,Employed,Government Employee,453755.7,396755.26,25707904.02,Yes,Business,10677011.4,120,217717.9,21.59,0.48,394,4.72,2021-11-29
+U00196,Swati Mishra,64,Female,Bangalore,Bachelor,Unemployed,Doctor,450636.14,345312.58,25221753.66,No,,0.0,0,0.0,0.0,0.0,460,4.66,2021-11-26
+U00197,Sneha Patel,66,Male,Hyderabad,Bachelor,Unemployed,Software Engineer,71772.42,49047.06,6558095.01,No,,0.0,0,0.0,0.0,0.0,499,7.61,2024-09-14
+U00198,Rahul Verma,56,Female,Hyderabad,Master,Employed,Freelancer,460166.0,342397.6,2045819.31,No,,0.0,0,0.0,0.0,0.0,316,0.37,2022-11-09
+U00199,Divya Krishnan,35,Male,Coimbatore,Bachelor,Employed,Teacher,276398.36,206627.43,31660778.5,No,,0.0,0,0.0,0.0,0.0,392,9.55,2022-06-09
+U00200,Vikram Reddy,35,Male,Kolkata,High School,Student,Teacher,307572.25,255130.08,4162642.84,No,,0.0,0,0.0,0.0,0.0,398,1.13,2022-09-12
+U00201,Suresh Babu,46,Female,Delhi,High School,Self-employed,Sales Executive,73663.7,23167.91,6442925.13,Yes,Business,3151885.36,60,67108.12,10.09,0.91,822,7.29,2023-12-06
+U00202,Vikram Reddy,37,Male,Kolkata,Bachelor,Self-employed,Sales Executive,281372.46,136663.62,18253326.28,No,,0.0,0,0.0,0.0,0.0,796,5.41,2023-06-06
+U00203,Riya Choudhary,67,Female,Bangalore,Bachelor,Self-employed,Accountant,534711.45,161453.93,37980582.04,No,,0.0,0,0.0,0.0,0.0,562,5.92,2024-11-21
+U00204,Rohit Gupta,48,Female,Madurai,High School,Employed,Doctor,215839.15,125485.47,24821869.65,No,,0.0,0,0.0,0.0,0.0,418,9.58,2024-05-11
+U00205,Anjali Singh,24,Other,Bangalore,Bachelor,Employed,Accountant,355289.16,224659.26,37101980.85,No,,0.0,0,0.0,0.0,0.0,717,8.7,2021-10-12
+U00206,Pooja Iyer,65,Male,Hyderabad,Bachelor,Employed,Software Engineer,341653.61,147769.12,2493270.76,No,,0.0,0,0.0,0.0,0.0,567,0.61,2022-09-19
+U00207,Lakshmi Pillai,44,Male,Bangalore,Master,Employed,Accountant,446446.94,391291.02,28365105.31,Yes,Education,20531642.99,120,269171.44,9.81,0.6,648,5.29,2022-09-15
+U00208,Swati Mishra,61,Female,Kolkata,Bachelor,Employed,Software Engineer,165812.63,113624.3,1682537.52,No,,0.0,0,0.0,0.0,0.0,751,0.85,2022-11-14
+U00209,Neha Malhotra,51,Male,Delhi,High School,Employed,Doctor,434863.82,219768.66,23630912.49,No,,0.0,0,0.0,0.0,0.0,411,4.53,2021-11-24
+U00210,Aditya Kumar,45,Female,Kolkata,High School,Unemployed,Student,324182.07,233607.12,21955525.9,Yes,Car,5749707.3,60,173342.66,26.35,0.53,626,5.64,2025-01-09
+U00211,Ravi Shankar,24,Female,Delhi,Bachelor,Self-employed,Software Engineer,329820.82,162374.1,2502869.08,No,,0.0,0,0.0,0.0,0.0,342,0.63,2023-07-06
+U00212,Harish Pandey,68,Male,Chennai,Master,Employed,Freelancer,288249.52,236088.74,29838978.01,No,,0.0,0,0.0,0.0,0.0,846,8.63,2021-08-24
+U00213,Ravi Shankar,61,Male,Hyderabad,Master,Employed,Bank Manager,444058.84,171764.51,37552508.44,Yes,Car,41503459.57,24,1894932.3,8.94,4.27,822,7.05,2024-01-02
+U00214,Manish Tiwari,18,Male,Hyderabad,Other,Employed,Accountant,146268.62,51860.18,1220286.53,No,,0.0,0,0.0,0.0,0.0,353,0.7,2024-02-04
+U00215,Manish Tiwari,60,Male,Bangalore,Bachelor,Self-employed,Accountant,240578.53,209399.63,13048584.24,No,,0.0,0,0.0,0.0,0.0,619,4.52,2022-04-12
+U00216,Aditya Kumar,48,Female,Madurai,Bachelor,Self-employed,Freelancer,70454.8,37815.48,7880194.76,No,,0.0,0,0.0,0.0,0.0,581,9.32,2022-08-08
+U00217,Ravi Shankar,64,Female,Coimbatore,Master,Employed,Bank Manager,592404.94,217559.25,47057900.44,No,,0.0,0,0.0,0.0,0.0,416,6.62,2024-10-20
+U00218,Sanjai Kumar,43,Male,Bangalore,Bachelor,Self-employed,Sales Executive,97141.39,62957.33,4064005.96,No,,0.0,0,0.0,0.0,0.0,758,3.49,2023-08-07
+U00219,Rohit Gupta,23,Male,Pune,High School,Self-employed,Sales Executive,305388.72,231320.88,8191790.04,No,,0.0,0,0.0,0.0,0.0,300,2.24,2021-11-26
+U00220,Divya Krishnan,62,Male,Madurai,Bachelor,Employed,Software Engineer,229298.52,117252.37,16669869.86,No,,0.0,0,0.0,0.0,0.0,440,6.06,2023-02-05
+U00221,Neha Malhotra,59,Male,Coimbatore,Bachelor,Self-employed,Bank Manager,536134.3,386258.48,948932.41,No,,0.0,0,0.0,0.0,0.0,312,0.15,2022-06-11
+U00222,Deepika Rajan,27,Female,Mumbai,Master,Employed,Freelancer,181322.76,95275.17,18640672.76,No,,0.0,0,0.0,0.0,0.0,736,8.57,2022-08-06
+U00223,Riya Choudhary,48,Female,Chennai,High School,Student,Student,41750.0,30318.02,3543370.93,Yes,Home,3783280.62,300,42242.65,12.85,1.01,713,7.07,2022-04-17
+U00224,Rohit Gupta,37,Male,Coimbatore,Master,Employed,Doctor,443878.48,321556.0,18752341.49,Yes,Car,40325717.12,24,1896388.54,11.9,4.27,520,3.52,2022-04-07
+U00225,Neha Malhotra,65,Male,Delhi,High School,Employed,Accountant,257822.12,176265.16,12599137.98,No,,0.0,0,0.0,0.0,0.0,460,4.07,2023-05-10
+U00226,Sanjay Rao,44,Female,Pune,Bachelor,Student,Government Employee,451275.75,384836.47,2578591.89,No,,0.0,0,0.0,0.0,0.0,698,0.48,2022-03-08
+U00227,Aditya Kumar,64,Female,Kolkata,Bachelor,Self-employed,Business Owner,279449.45,193409.38,17877326.62,No,,0.0,0,0.0,0.0,0.0,309,5.33,2021-10-09
+U00228,Karthik Menon,52,Female,Bangalore,Master,Self-employed,Freelancer,445158.54,249045.43,50153402.42,Yes,Business,4993565.53,240,30497.54,4.09,0.07,479,9.39,2024-07-30
+U00229,Ravi Shankar,24,Male,Kolkata,Other,Self-employed,Student,356697.8,127586.33,41465923.82,Yes,Home,19776474.84,24,894165.6,7.97,2.51,569,9.69,2024-09-11
+U00230,Amit Bose,24,Male,Kolkata,Master,Employed,Student,472098.98,279475.34,35602722.48,No,,0.0,0,0.0,0.0,0.0,683,6.28,2023-06-16
+U00231,Anjali Singh,26,Female,Madurai,Bachelor,Student,Government Employee,362349.92,228642.2,12133385.84,No,,0.0,0,0.0,0.0,0.0,779,2.79,2024-02-09
+U00232,Anjali Singh,43,Male,Hyderabad,PhD,Employed,Sales Executive,140163.94,55586.78,12072573.62,Yes,Business,36956283.37,240,550804.41,17.31,3.93,391,7.18,2022-04-05
+U00233,Aditya Kumar,63,Male,Mumbai,Bachelor,Employed,Accountant,318535.8,118001.36,3148058.55,No,,0.0,0,0.0,0.0,0.0,565,0.82,2025-04-06
+U00234,Neha Malhotra,64,Male,Mumbai,High School,Employed,Business Owner,468901.76,265990.09,8675133.14,No,,0.0,0,0.0,0.0,0.0,319,1.54,2024-01-08
+U00235,Neha Malhotra,47,Male,Kallakurichi,Master,Employed,Bank Manager,633321.62,370352.56,8444646.42,Yes,Car,35304851.26,120,390893.56,5.94,0.62,647,1.11,2024-01-04
+U00236,Pooja Iyer,57,Female,Chennai,Bachelor,Employed,Teacher,99096.13,75076.52,3916531.6,No,,0.0,0,0.0,0.0,0.0,793,3.29,2025-03-07
+U00237,Sanjai Kumar,63,Female,Chennai,Master,Employed,Software Engineer,367271.41,222158.43,38329852.52,Yes,Car,22227270.81,60,566726.19,18.19,1.54,397,8.7,2021-10-15
+U00238,Karthik Menon,26,Female,Pune,Bachelor,Student,Freelancer,501799.1,159009.05,40744948.08,No,,0.0,0,0.0,0.0,0.0,773,6.77,2024-11-28
+U00239,Arjun Sharma,24,Female,Bangalore,Bachelor,Student,Sales Executive,140516.3,75332.87,7772692.69,Yes,Home,31092038.29,240,634025.52,24.27,4.51,734,4.61,2024-02-07
+U00240,Anjali Singh,21,Female,Coimbatore,Master,Employed,Accountant,477414.59,403080.38,14463409.08,No,,0.0,0,0.0,0.0,0.0,492,2.52,2023-05-18
+U00241,Swati Mishra,27,Male,Pune,Master,Student,Doctor,679023.67,214662.64,40280716.46,No,,0.0,0,0.0,0.0,0.0,521,4.94,2023-09-28
+U00242,Priya Nair,54,Male,Madurai,High School,Employed,Freelancer,281826.7,150252.4,27939828.96,No,,0.0,0,0.0,0.0,0.0,482,8.26,2021-12-06
+U00243,Rahul Verma,36,Male,Madurai,PhD,Employed,Freelancer,247334.52,92416.96,11467335.56,No,,0.0,0,0.0,0.0,0.0,781,3.86,2022-11-15
+U00244,Neha Malhotra,36,Male,Chennai,High School,Self-employed,Bank Manager,357152.05,238628.8,9247172.43,No,,0.0,0,0.0,0.0,0.0,410,2.16,2022-10-30
+U00245,Deepika Rajan,21,Male,Chennai,High School,Employed,Business Owner,751924.18,452344.55,73713512.76,Yes,Education,37586465.38,360,218152.1,5.7,0.29,392,8.17,2025-06-20
+U00246,Arjun Sharma,29,Male,Hyderabad,Master,Unemployed,Teacher,494864.42,423106.19,8849183.88,No,,0.0,0,0.0,0.0,0.0,615,1.49,2021-12-25
+U00247,Sneha Patel,50,Female,Kallakurichi,Bachelor,Employed,Freelancer,426247.46,176559.91,51123270.79,Yes,Car,40091791.04,24,1903401.7,12.86,4.47,548,9.99,2025-06-25
+U00248,Rohit Gupta,38,Female,Madurai,Master,Employed,Freelancer,139342.3,109597.92,6261733.47,No,,0.0,0,0.0,0.0,0.0,527,3.74,2024-06-09
+U00249,Riya Choudhary,66,Male,Kolkata,High School,Self-employed,Bank Manager,93013.16,47129.07,1080158.51,No,,0.0,0,0.0,0.0,0.0,356,0.97,2021-12-12
+U00250,Deepika Rajan,43,Male,Hyderabad,Bachelor,Unemployed,Freelancer,356435.62,206304.28,22177027.19,No,,0.0,0,0.0,0.0,0.0,301,5.18,2023-08-12
+U00251,Suresh Babu,29,Male,Kolkata,Master,Employed,Sales Executive,521899.22,406161.54,53444639.26,No,,0.0,0,0.0,0.0,0.0,327,8.53,2023-08-11
+U00252,Karthik Menon,52,Male,Pune,High School,Self-employed,Doctor,296541.9,178553.9,9925244.2,No,,0.0,0,0.0,0.0,0.0,620,2.79,2022-08-10
+U00253,Meera Joshi,63,Male,Delhi,High School,Unemployed,Software Engineer,346482.42,251878.59,7778596.98,No,,0.0,0,0.0,0.0,0.0,772,1.87,2022-11-09
+U00254,Riya Choudhary,54,Female,Kallakurichi,Bachelor,Employed,Software Engineer,624144.96,321610.27,50771801.76,Yes,Business,9570983.76,360,225925.95,28.32,0.36,498,6.78,2024-05-06
+U00255,Riya Choudhary,39,Male,Chennai,Bachelor,Student,Freelancer,138460.54,50388.08,16152243.34,No,,0.0,0,0.0,0.0,0.0,424,9.72,2022-02-25
+U00256,Anjali Singh,60,Male,Madurai,Master,Unemployed,Student,317325.88,220328.11,21795807.94,No,,0.0,0,0.0,0.0,0.0,515,5.72,2021-12-17
+U00257,Ravi Shankar,61,Male,Delhi,PhD,Employed,Bank Manager,471960.37,415931.04,22053717.73,No,,0.0,0,0.0,0.0,0.0,724,3.89,2024-11-23
+U00258,Rahul Verma,62,Male,Hyderabad,Master,Employed,Business Owner,357155.38,185600.46,3127557.63,No,,0.0,0,0.0,0.0,0.0,708,0.73,2022-05-17
+U00259,Deepika Rajan,53,Female,Delhi,Master,Student,Bank Manager,406229.17,245012.38,1535860.59,No,,0.0,0,0.0,0.0,0.0,325,0.32,2021-09-27
+U00260,Ravi Shankar,50,Male,Kallakurichi,Bachelor,Employed,Accountant,350129.7,228213.85,30763104.24,No,,0.0,0,0.0,0.0,0.0,377,7.32,2022-07-26
+U00261,Sanjay Rao,69,Male,Coimbatore,Bachelor,Employed,Freelancer,449047.97,295602.53,39430725.71,No,,0.0,0,0.0,0.0,0.0,736,7.32,2021-08-20
+U00262,Ravi Shankar,25,Female,Pune,Master,Employed,Teacher,589175.16,488321.36,30478360.88,Yes,Home,6623980.68,60,125093.86,5.03,0.21,829,4.31,2021-10-22
+U00263,Neha Malhotra,54,Female,Coimbatore,High School,Employed,Software Engineer,477399.56,204929.88,7268564.78,Yes,Car,37725287.48,120,962888.6,28.86,2.02,659,1.27,2024-01-17
+U00264,Amit Bose,51,Male,Delhi,Master,Employed,Sales Executive,109345.76,88318.78,11405968.9,Yes,Car,14567816.64,12,1404670.4,27.83,12.85,740,8.69,2023-02-18
+U00265,Vikram Reddy,34,Male,Mumbai,Master,Employed,Bank Manager,203871.93,69109.61,15946884.28,No,,0.0,0,0.0,0.0,0.0,715,6.52,2023-05-19
+U00266,Meera Joshi,51,Female,Pune,Master,Unemployed,Freelancer,224006.28,144363.99,23484995.4,No,,0.0,0,0.0,0.0,0.0,567,8.74,2022-12-05
+U00267,Deepika Rajan,53,Female,Kallakurichi,PhD,Student,Sales Executive,487251.72,266401.74,3630778.73,Yes,Education,33870605.16,300,757167.14,26.79,1.55,529,0.62,2024-03-18
+U00268,Neha Malhotra,60,Female,Kolkata,Master,Employed,Teacher,195360.78,88648.61,6050308.96,Yes,Home,2333788.26,120,44607.37,19.68,0.23,732,2.58,2021-12-05
+U00269,Neha Malhotra,53,Male,Delhi,High School,Student,Software Engineer,167475.12,63869.98,1922229.28,Yes,Car,14218257.26,120,151433.1,5.09,0.9,670,0.96,2023-01-08
+U00270,Sanjay Rao,40,Male,Hyderabad,High School,Self-employed,Teacher,492867.1,325262.56,13547498.42,No,,0.0,0,0.0,0.0,0.0,555,2.29,2025-01-10
+U00271,Aditya Kumar,26,Female,Mumbai,Bachelor,Employed,Government Employee,184491.58,127110.38,6670857.58,Yes,Car,4095931.34,120,69405.2,16.31,0.38,679,3.01,2022-06-10
+U00272,Kavitha Nair,59,Female,Pune,Master,Employed,Bank Manager,276112.79,180108.66,29737012.82,No,,0.0,0,0.0,0.0,0.0,370,8.97,2025-04-24
+U00273,Suresh Babu,45,Male,Chennai,High School,Employed,Student,579525.07,360911.22,42488028.94,No,,0.0,0,0.0,0.0,0.0,551,6.11,2023-04-19
+U00274,Kavitha Nair,64,Female,Delhi,Bachelor,Self-employed,Software Engineer,324354.91,281799.14,23347516.83,Yes,Business,27064164.46,12,2351767.48,7.8,7.25,777,6.0,2024-01-01
+U00275,Kavitha Nair,57,Male,Coimbatore,Bachelor,Employed,Government Employee,345267.49,130056.26,14885639.36,No,,0.0,0,0.0,0.0,0.0,667,3.59,2021-09-05
+U00276,Arjun Sharma,54,Female,Hyderabad,Bachelor,Employed,Sales Executive,593139.74,238045.14,29430259.7,No,,0.0,0,0.0,0.0,0.0,554,4.13,2025-05-20
+U00277,Ravi Shankar,30,Female,Pune,Master,Employed,Business Owner,657452.28,276665.56,65061086.61,Yes,Home,23086879.93,180,494460.28,25.08,0.75,767,8.25,2023-06-09
+U00278,Priya Nair,62,Female,Kolkata,Master,Employed,Student,240045.8,163897.14,17395315.36,Yes,Car,366051.48,300,5745.64,18.65,0.02,311,6.04,2022-09-20
+U00279,Lakshmi Pillai,59,Female,Hyderabad,High School,Unemployed,Student,639942.33,472376.2,33990810.1,Yes,Car,38092984.74,24,1713822.47,7.48,2.68,445,4.43,2021-10-24
+U00280,Anjali Singh,64,Female,Hyderabad,Bachelor,Employed,Freelancer,480244.4,331433.21,24259280.88,No,,0.0,0,0.0,0.0,0.0,670,4.21,2025-04-16
+U00281,Rohit Gupta,29,Male,Madurai,Master,Employed,Student,555168.12,397848.28,22612478.02,Yes,Business,36426318.89,60,706087.69,6.11,1.27,471,3.39,2023-04-29
+U00282,Amit Bose,33,Female,Hyderabad,Master,Employed,Business Owner,270945.81,127120.4,28716597.72,Yes,Education,24858005.94,120,603421.93,27.14,2.23,403,8.83,2023-10-29
+U00283,Suresh Babu,31,Female,Kallakurichi,Bachelor,Employed,Sales Executive,129120.22,84021.88,10584191.13,No,,0.0,0,0.0,0.0,0.0,710,6.83,2022-01-19
+U00284,Rohit Gupta,19,Male,Pune,High School,Self-employed,Bank Manager,391174.95,293727.95,44113037.48,No,,0.0,0,0.0,0.0,0.0,340,9.4,2023-10-24
+U00285,Amit Bose,58,Female,Kolkata,Master,Employed,Bank Manager,454976.47,144647.88,46839133.78,Yes,Education,36353106.09,120,406887.98,6.18,0.89,300,8.58,2022-02-23
+U00286,Amit Bose,57,Male,Delhi,Bachelor,Student,Student,226832.76,141434.8,8321682.64,No,,0.0,0,0.0,0.0,0.0,630,3.06,2022-11-13
+U00287,Priya Nair,24,Male,Pune,Bachelor,Self-employed,Doctor,41750.0,18982.89,1954624.78,Yes,Education,31644111.9,120,756101.68,26.61,18.11,685,3.9,2023-05-24
+U00288,Priya Nair,51,Female,Coimbatore,Master,Employed,Accountant,355956.32,225159.42,40808522.47,Yes,Business,17158680.53,240,209395.46,13.68,0.59,664,9.55,2022-07-24
+U00289,Sneha Patel,55,Male,Delhi,Bachelor,Employed,Freelancer,464538.89,390934.48,51906728.74,No,,0.0,0,0.0,0.0,0.0,554,9.31,2024-07-06
+U00290,Kavitha Nair,19,Female,Kallakurichi,High School,Student,Business Owner,473085.12,320418.72,22907162.04,No,,0.0,0,0.0,0.0,0.0,350,4.04,2024-05-05
+U00291,Deepika Rajan,22,Female,Coimbatore,Bachelor,Employed,Teacher,544132.76,351337.94,24493733.86,Yes,Home,3517210.38,240,45769.69,14.79,0.08,352,3.75,2024-03-14
+U00292,Ravi Shankar,29,Male,Chennai,Master,Self-employed,Sales Executive,452326.18,262651.76,51137023.24,No,,0.0,0,0.0,0.0,0.0,635,9.42,2024-01-16
+U00293,Meera Joshi,32,Male,Bangalore,Bachelor,Employed,Freelancer,221749.28,106204.48,22050348.51,Yes,Home,16208670.14,180,326155.18,23.4,1.47,466,8.29,2022-11-29
+U00294,Harish Pandey,22,Female,Delhi,Master,Employed,Student,624710.26,372197.08,32839384.34,No,,0.0,0,0.0,0.0,0.0,676,4.38,2024-04-03
+U00295,Sneha Patel,31,Male,Chennai,Master,Unemployed,Business Owner,147912.74,101738.07,10848802.63,Yes,Home,33925466.34,36,1426473.92,29.26,9.64,483,6.11,2024-04-13
+U00296,Neha Malhotra,52,Female,Bangalore,High School,Student,Sales Executive,585203.07,460576.82,5538700.29,Yes,Business,27600140.1,120,471842.64,16.55,0.81,486,0.79,2023-06-08
+U00297,Lakshmi Pillai,67,Male,Delhi,Bachelor,Employed,Government Employee,146565.05,52994.94,10531893.41,Yes,Car,8613009.97,120,113250.22,9.88,0.77,830,5.99,2022-07-05
+U00298,Karthik Menon,30,Female,Chennai,Master,Employed,Teacher,365946.26,211756.84,36032338.34,No,,0.0,0,0.0,0.0,0.0,317,8.21,2021-07-30
+U00299,Meera Joshi,52,Female,Coimbatore,PhD,Self-employed,Doctor,177220.4,139200.34,17649099.41,No,,0.0,0,0.0,0.0,0.0,642,8.3,2024-05-29
+U00300,Harish Pandey,40,Female,Hyderabad,PhD,Student,Accountant,471867.68,299940.35,42177453.2,No,,0.0,0,0.0,0.0,0.0,806,7.45,2024-07-13
+U00301,Rohit Gupta,33,Male,Delhi,Master,Self-employed,Accountant,99623.02,30204.46,7518146.28,No,,0.0,0,0.0,0.0,0.0,832,6.29,2023-05-31
+U00302,Neha Malhotra,59,Female,Coimbatore,Other,Employed,Teacher,49470.41,38457.6,3194942.96,No,,0.0,0,0.0,0.0,0.0,616,5.38,2022-08-08
+U00303,Ravi Shankar,44,Female,Kolkata,Bachelor,Self-employed,Teacher,447176.74,391990.75,15257682.79,No,,0.0,0,0.0,0.0,0.0,553,2.84,2024-08-30
+U00304,Anjali Singh,47,Male,Mumbai,High School,Employed,Software Engineer,171832.98,113033.95,11960895.71,No,,0.0,0,0.0,0.0,0.0,321,5.8,2023-08-16
+U00305,Manish Tiwari,55,Male,Coimbatore,Master,Employed,Accountant,432919.11,180002.62,44041176.54,No,,0.0,0,0.0,0.0,0.0,548,8.48,2024-11-24
+U00306,Deepika Rajan,52,Male,Chennai,Master,Self-employed,Doctor,389626.86,251094.52,15640278.12,No,,0.0,0,0.0,0.0,0.0,464,3.35,2023-12-14
+U00307,Neha Malhotra,35,Female,Coimbatore,Bachelor,Student,Government Employee,122622.26,66930.26,13791439.49,No,,0.0,0,0.0,0.0,0.0,493,9.37,2023-08-22
+U00308,Deepika Rajan,30,Female,Pune,Bachelor,Employed,Business Owner,501854.2,347098.64,45780823.89,Yes,Car,22642793.53,240,279924.56,13.9,0.56,342,7.6,2024-03-21
+U00309,Kavitha Nair,27,Female,Kallakurichi,Master,Employed,Government Employee,286284.76,122104.56,4611689.14,Yes,Education,4989926.6,240,48916.8,10.23,0.17,592,1.34,2022-05-09
+U00310,Deepika Rajan,36,Female,Coimbatore,Bachelor,Unemployed,Teacher,302993.11,102329.25,23094199.54,Yes,Home,118045.62,24,5349.84,8.2,0.02,656,6.35,2024-01-31
+U00311,Kavitha Nair,48,Female,Coimbatore,Bachelor,Employed,Sales Executive,190030.14,132627.22,11456315.23,No,,0.0,0,0.0,0.0,0.0,705,5.02,2023-03-04
+U00312,Manish Tiwari,30,Male,Coimbatore,Other,Employed,Freelancer,675500.8,346500.78,16259995.08,No,,0.0,0,0.0,0.0,0.0,526,2.01,2023-03-20
+U00313,Neha Malhotra,34,Male,Mumbai,Master,Self-employed,Accountant,580729.14,358720.18,49946739.92,No,,0.0,0,0.0,0.0,0.0,662,7.17,2024-11-19
+U00314,Neha Malhotra,49,Female,Delhi,PhD,Employed,Student,757146.27,370346.72,47533948.14,Yes,Home,12180095.74,60,301071.78,16.75,0.4,834,5.23,2023-09-03
+U00315,Kavitha Nair,56,Female,Mumbai,Master,Unemployed,Freelancer,185749.09,134772.34,1347363.52,No,,0.0,0,0.0,0.0,0.0,340,0.6,2023-01-05
+U00316,Sneha Patel,25,Male,Pune,Master,Student,Freelancer,389897.4,269750.92,18207717.75,Yes,Home,17872744.98,12,1548283.72,7.22,3.97,389,3.89,2024-07-22
+U00317,Sanjay Rao,33,Male,Mumbai,Bachelor,Employed,Accountant,208971.28,168197.39,13161250.8,Yes,Education,22951385.32,300,449673.38,23.44,2.15,778,5.25,2024-01-29
+U00318,Priya Nair,58,Other,Bangalore,Bachelor,Employed,Bank Manager,68966.82,47708.56,3933487.1,No,,0.0,0,0.0,0.0,0.0,717,4.75,2021-09-05
+U00319,Rohit Gupta,57,Male,Hyderabad,High School,Student,Student,242390.48,83330.5,20016139.04,Yes,Home,17586604.67,360,422160.97,28.8,1.74,301,6.88,2024-10-24
+U00320,Aditya Kumar,56,Male,Delhi,Bachelor,Self-employed,Government Employee,311968.53,246097.88,29973675.2,No,,0.0,0,0.0,0.0,0.0,481,8.01,2022-09-30
+U00321,Neha Malhotra,60,Female,Delhi,PhD,Self-employed,Accountant,441877.82,151777.12,6855857.68,Yes,Car,36736125.6,36,1243455.28,13.32,2.81,656,1.29,2021-12-30
+U00322,Manish Tiwari,34,Male,Kallakurichi,High School,Employed,Government Employee,687296.02,523151.72,10944827.63,Yes,Business,27701983.38,12,2520115.17,16.51,3.67,721,1.33,2024-10-13
+U00323,Rohit Gupta,57,Female,Hyderabad,Master,Unemployed,Government Employee,73146.84,45137.6,3175198.56,No,,0.0,0,0.0,0.0,0.0,798,3.62,2022-10-19
+U00324,Riya Choudhary,46,Male,Madurai,High School,Employed,Accountant,232374.66,85189.2,2977920.62,Yes,Car,9185748.99,360,205144.47,26.79,0.88,429,1.07,2023-06-12
+U00325,Deepika Rajan,33,Male,Madurai,Bachelor,Employed,Doctor,440034.14,267902.24,14256352.46,No,,0.0,0,0.0,0.0,0.0,707,2.7,2021-12-07
+U00326,Divya Krishnan,65,Female,Bangalore,PhD,Self-employed,Doctor,730734.38,514550.38,31314290.24,Yes,Car,34558377.96,120,536160.18,13.98,0.73,545,3.57,2023-07-02
+U00327,Ravi Shankar,26,Female,Madurai,Bachelor,Employed,Freelancer,368359.42,160405.17,33716548.5,Yes,Education,39184854.95,36,1481124.67,21.24,4.02,683,7.63,2025-04-07
+U00328,Meera Joshi,35,Male,Chennai,Bachelor,Employed,Doctor,306179.47,103346.28,35313975.31,No,,0.0,0,0.0,0.0,0.0,421,9.61,2021-11-02
+U00329,Suresh Babu,56,Female,Kallakurichi,High School,Employed,Government Employee,347015.14,254718.42,28168613.11,Yes,Home,2766162.12,36,89959.56,10.54,0.26,849,6.76,2024-10-05
+U00330,Priya Nair,53,Male,Madurai,Bachelor,Employed,Government Employee,320033.79,136750.45,10538354.64,No,,0.0,0,0.0,0.0,0.0,731,2.74,2022-03-06
+U00331,Arjun Sharma,63,Male,Delhi,PhD,Self-employed,Doctor,519802.53,301183.66,36548218.04,No,,0.0,0,0.0,0.0,0.0,811,5.86,2023-06-18
+U00332,Manish Tiwari,65,Female,Kolkata,High School,Unemployed,Freelancer,545101.36,251095.36,48615871.0,Yes,Car,29131996.86,300,275474.85,10.52,0.51,839,7.43,2023-09-06
+U00333,Priya Nair,38,Female,Mumbai,Bachelor,Self-employed,Freelancer,174208.56,85661.82,2315660.41,No,,0.0,0,0.0,0.0,0.0,402,1.11,2025-02-12
+U00334,Karthik Menon,38,Female,Bangalore,High School,Unemployed,Teacher,147273.96,86377.41,11985039.74,No,,0.0,0,0.0,0.0,0.0,830,6.78,2025-05-01
+U00335,Divya Krishnan,38,Male,Coimbatore,High School,Self-employed,Business Owner,504879.41,320321.03,11377984.72,No,,0.0,0,0.0,0.0,0.0,822,1.88,2025-06-05
+U00336,Divya Krishnan,65,Male,Mumbai,Master,Self-employed,Government Employee,144792.34,105076.4,10293085.08,No,,0.0,0,0.0,0.0,0.0,467,5.92,2022-05-17
+U00337,Swati Mishra,60,Male,Pune,Master,Student,Government Employee,458050.94,322422.72,29455478.37,No,,0.0,0,0.0,0.0,0.0,796,5.36,2025-03-11
+U00338,Manish Tiwari,66,Male,Chennai,High School,Employed,Software Engineer,139752.28,98504.12,1487056.51,No,,0.0,0,0.0,0.0,0.0,491,0.89,2022-06-02
+U00339,Arjun Sharma,29,Female,Hyderabad,PhD,Employed,Doctor,595442.68,405078.54,53589575.22,No,,0.0,0,0.0,0.0,0.0,466,7.5,2025-05-01
+U00340,Ravi Shankar,18,Female,Mumbai,Bachelor,Unemployed,Freelancer,406808.66,208992.15,29620272.3,Yes,Business,28391255.84,180,420154.46,16.16,1.03,651,6.07,2025-04-01
+U00341,Sanjai Kumar,51,Male,Kolkata,High School,Employed,Sales Executive,247128.27,204784.59,21354512.11,No,,0.0,0,0.0,0.0,0.0,469,7.2,2021-11-19
+U00342,Suresh Babu,20,Male,Pune,Bachelor,Employed,Teacher,334222.11,202931.72,24159867.46,Yes,Home,40252936.85,24,1999686.39,17.49,5.98,367,6.02,2023-06-06
+U00343,Rohit Gupta,24,Male,Madurai,Bachelor,Student,Student,192812.36,112545.48,638222.23,No,,0.0,0,0.0,0.0,0.0,583,0.28,2022-03-02
+U00344,Anjali Singh,47,Female,Mumbai,Master,Self-employed,Accountant,533787.11,435426.62,4289685.58,No,,0.0,0,0.0,0.0,0.0,562,0.67,2022-09-02
+U00345,Lakshmi Pillai,31,Male,Pune,Bachelor,Employed,Teacher,284017.74,141309.56,1748118.42,No,,0.0,0,0.0,0.0,0.0,581,0.51,2023-11-23
+U00346,Divya Krishnan,66,Female,Delhi,High School,Employed,Teacher,382669.64,148010.43,22374576.5,No,,0.0,0,0.0,0.0,0.0,724,4.87,2025-01-06
+U00347,Divya Krishnan,50,Male,Chennai,Master,Employed,Sales Executive,367543.62,265480.74,28720998.18,No,,0.0,0,0.0,0.0,0.0,453,6.51,2023-08-09
+U00348,Lakshmi Pillai,22,Other,Mumbai,Bachelor,Employed,Student,215956.88,74775.09,10072284.36,No,,0.0,0,0.0,0.0,0.0,334,3.89,2024-10-04
+U00349,Divya Krishnan,26,Male,Coimbatore,Bachelor,Unemployed,Bank Manager,544803.26,429374.54,59585800.4,No,,0.0,0,0.0,0.0,0.0,474,9.11,2022-01-05
+U00350,Priya Nair,69,Female,Coimbatore,Bachelor,Employed,Software Engineer,298510.83,120237.5,12932205.28,No,,0.0,0,0.0,0.0,0.0,596,3.61,2025-04-27
+U00351,Deepika Rajan,21,Male,Coimbatore,High School,Self-employed,Freelancer,346689.5,131206.89,9436847.69,No,,0.0,0,0.0,0.0,0.0,760,2.27,2022-09-29
+U00352,Pooja Iyer,52,Female,Hyderabad,Bachelor,Employed,Doctor,88652.78,79644.81,7904455.69,No,,0.0,0,0.0,0.0,0.0,700,7.43,2022-01-24
+U00353,Pooja Iyer,36,Male,Madurai,Bachelor,Self-employed,Teacher,648192.13,235323.88,59583978.43,No,,0.0,0,0.0,0.0,0.0,482,7.66,2024-08-18
+U00354,Pooja Iyer,24,Female,Chennai,Bachelor,Employed,Sales Executive,280454.79,151077.38,21284300.3,No,,0.0,0,0.0,0.0,0.0,741,6.32,2024-08-16
+U00355,Sanjai Kumar,55,Female,Pune,Bachelor,Self-employed,Bank Manager,41750.0,19383.69,454184.89,No,,0.0,0,0.0,0.0,0.0,333,0.91,2021-11-18
+U00356,Meera Joshi,20,Male,Chennai,Bachelor,Student,Sales Executive,341029.86,112532.12,12103785.08,No,,0.0,0,0.0,0.0,0.0,362,2.96,2021-11-10
+U00357,Manish Tiwari,36,Male,Madurai,Other,Employed,Bank Manager,516121.02,330638.29,45697044.16,No,,0.0,0,0.0,0.0,0.0,481,7.38,2023-03-24
+U00358,Rahul Verma,40,Female,Coimbatore,Master,Employed,Bank Manager,561528.32,301989.44,18276145.16,No,,0.0,0,0.0,0.0,0.0,657,2.71,2025-04-24
+U00359,Harish Pandey,51,Female,Pune,Bachelor,Employed,Government Employee,85257.68,39935.54,4116319.54,No,,0.0,0,0.0,0.0,0.0,840,4.02,2024-07-10
+U00360,Rahul Verma,27,Other,Madurai,Bachelor,Employed,Software Engineer,96099.32,63173.6,6264105.7,Yes,Home,25641185.84,24,1260255.48,16.39,13.11,590,5.43,2025-06-05
+U00361,Meera Joshi,39,Female,Delhi,Bachelor,Employed,Doctor,605216.35,342396.76,66064389.22,Yes,Business,18620433.2,120,463318.95,27.98,0.77,374,9.1,2025-02-14
+U00362,Anjali Singh,56,Female,Bangalore,Master,Employed,Doctor,486839.24,324590.38,40909885.62,Yes,Home,31193585.14,300,186926.44,5.25,0.38,757,7.0,2021-08-08
+U00363,Suresh Babu,34,Female,Chennai,Master,Employed,Student,507801.91,207075.82,23222264.32,No,,0.0,0,0.0,0.0,0.0,429,3.81,2025-03-30
+U00364,Sneha Patel,36,Female,Hyderabad,Bachelor,Employed,Accountant,353302.7,315893.03,33692642.45,No,,0.0,0,0.0,0.0,0.0,473,7.95,2024-11-07
+U00365,Arjun Sharma,24,Female,Pune,Bachelor,Employed,Software Engineer,288352.22,157966.14,33983670.84,Yes,Home,18528355.24,240,299854.35,18.97,1.04,623,9.82,2024-09-08
+U00366,Kavitha Nair,51,Male,Chennai,Bachelor,Employed,Bank Manager,464509.66,217158.45,31324237.6,No,,0.0,0,0.0,0.0,0.0,489,5.62,2025-06-26
+U00367,Suresh Babu,56,Male,Mumbai,Other,Unemployed,Bank Manager,618623.94,417761.36,42838150.29,No,,0.0,0,0.0,0.0,0.0,804,5.77,2024-06-17
+U00368,Priya Nair,34,Male,Kallakurichi,Master,Self-employed,Business Owner,281580.37,107349.27,11187621.42,Yes,Business,22324458.96,12,2086437.04,21.72,7.41,364,3.31,2024-06-26
+U00369,Amit Bose,38,Male,Madurai,High School,Employed,Doctor,481334.92,303328.78,27194011.13,No,,0.0,0,0.0,0.0,0.0,325,4.71,2023-08-14
+U00370,Deepika Rajan,58,Male,Kolkata,High School,Employed,Government Employee,47572.46,21080.41,4856135.38,No,,0.0,0,0.0,0.0,0.0,840,8.51,2023-08-02
+U00371,Lakshmi Pillai,56,Male,Mumbai,Master,Employed,Software Engineer,186266.79,113115.78,12164748.43,Yes,Home,35452406.62,36,1203944.75,13.55,6.46,506,5.44,2023-01-31
+U00372,Manish Tiwari,21,Female,Kolkata,Master,Student,Teacher,184882.36,97569.75,20059952.32,Yes,Education,10498895.04,180,139747.27,13.99,0.76,426,9.04,2024-11-24
+U00373,Sanjay Rao,64,Female,Hyderabad,Master,Employed,Freelancer,193723.34,97769.32,16176786.5,No,,0.0,0,0.0,0.0,0.0,622,6.96,2025-01-19
+U00374,Lakshmi Pillai,60,Male,Delhi,Bachelor,Employed,Sales Executive,520892.2,364837.38,43329119.44,No,,0.0,0,0.0,0.0,0.0,582,6.93,2022-03-21
+U00375,Aditya Kumar,39,Female,Bangalore,High School,Self-employed,Teacher,323423.89,184008.95,35054420.57,No,,0.0,0,0.0,0.0,0.0,763,9.03,2024-08-28
+U00376,Arjun Sharma,21,Male,Kolkata,PhD,Student,Software Engineer,336439.87,192033.3,23241601.26,No,,0.0,0,0.0,0.0,0.0,844,5.76,2022-01-31
+U00377,Harish Pandey,60,Female,Mumbai,Bachelor,Employed,Accountant,223727.4,74739.18,11934782.76,No,,0.0,0,0.0,0.0,0.0,382,4.45,2022-02-07
+U00378,Neha Malhotra,49,Female,Chennai,Master,Employed,Government Employee,190638.85,68846.59,8387306.96,Yes,Car,36189521.24,60,1047409.8,24.3,5.49,440,3.67,2023-09-24
+U00379,Manish Tiwari,46,Female,Bangalore,Master,Student,Student,498695.4,224235.91,651293.32,Yes,Education,1032718.82,240,8206.38,7.32,0.02,435,0.11,2021-09-20
+U00380,Arjun Sharma,53,Other,Delhi,Master,Student,Bank Manager,648489.39,382255.48,4199165.74,No,,0.0,0,0.0,0.0,0.0,328,0.54,2024-10-23
+U00381,Suresh Babu,40,Female,Kolkata,Bachelor,Employed,Student,441311.7,321802.32,36734021.4,Yes,Education,8180321.32,360,71124.46,9.89,0.16,845,6.94,2022-04-22
+U00382,Rohit Gupta,26,Female,Kolkata,Bachelor,Employed,Government Employee,234348.6,145881.18,10395956.24,No,,0.0,0,0.0,0.0,0.0,373,3.7,2022-05-24
+U00383,Manish Tiwari,35,Female,Hyderabad,High School,Unemployed,Sales Executive,316606.95,142122.01,29504127.98,No,,0.0,0,0.0,0.0,0.0,400,7.77,2024-04-29
+U00384,Rohit Gupta,66,Male,Delhi,Other,Employed,Accountant,351576.75,122342.53,29323792.19,No,,0.0,0,0.0,0.0,0.0,505,6.95,2023-04-23
+U00385,Suresh Babu,33,Female,Mumbai,Bachelor,Employed,Government Employee,597561.9,299004.32,34418100.47,No,,0.0,0,0.0,0.0,0.0,327,4.8,2024-04-27
+U00386,Manish Tiwari,36,Male,Hyderabad,Bachelor,Employed,Student,109751.56,91462.56,5177612.06,Yes,Home,41670817.79,24,2195078.9,23.61,20.0,595,3.93,2025-01-20
+U00387,Anjali Singh,68,Female,Coimbatore,High School,Employed,Doctor,543008.85,344039.2,10026476.26,No,,0.0,0,0.0,0.0,0.0,666,1.54,2021-10-03
+U00388,Neha Malhotra,44,Female,Kolkata,Bachelor,Unemployed,Doctor,207315.47,175555.41,22349015.48,Yes,Business,8767985.14,360,177900.09,24.33,0.86,718,8.98,2022-07-06
+U00389,Anjali Singh,48,Female,Hyderabad,Bachelor,Employed,Freelancer,444468.83,176169.14,9090098.07,Yes,Business,11153772.18,300,201359.41,21.56,0.45,788,1.7,2021-07-31
+U00390,Harish Pandey,24,Female,Madurai,Bachelor,Student,Government Employee,322673.22,181642.56,5676902.81,No,,0.0,0,0.0,0.0,0.0,682,1.47,2022-02-01
+U00391,Deepika Rajan,67,Female,Delhi,High School,Employed,Government Employee,279316.68,219310.24,18925335.96,No,,0.0,0,0.0,0.0,0.0,623,5.65,2024-01-08
+U00392,Vikram Reddy,19,Other,Pune,Master,Unemployed,Government Employee,283995.19,89607.19,30264394.64,Yes,Business,29356541.72,12,2727161.77,20.55,9.6,757,8.88,2021-10-10
+U00393,Suresh Babu,44,Female,Mumbai,PhD,Employed,Doctor,376074.82,261214.72,5558286.88,Yes,Business,121364.74,180,1335.16,10.41,0.0,712,1.23,2021-08-24
+U00394,Neha Malhotra,62,Female,Pune,Other,Employed,Sales Executive,372894.3,284521.24,723386.38,No,,0.0,0,0.0,0.0,0.0,563,0.16,2023-08-19
+U00395,Sanjay Rao,42,Male,Kallakurichi,Other,Self-employed,Teacher,93812.25,46805.09,469860.34,Yes,Home,4771895.58,300,38167.85,8.42,0.41,449,0.42,2022-03-13
+U00396,Ravi Shankar,29,Male,Bangalore,Bachelor,Employed,Student,505005.5,313502.42,30905248.79,Yes,Education,30391238.66,180,623197.24,23.9,1.23,539,5.1,2022-04-05
+U00397,Deepika Rajan,26,Female,Coimbatore,Master,Employed,Student,330765.21,226455.34,7466581.69,No,,0.0,0,0.0,0.0,0.0,796,1.88,2024-09-15
+U00398,Suresh Babu,20,Male,Coimbatore,Bachelor,Employed,Accountant,731336.42,580174.7,8537482.55,No,,0.0,0,0.0,0.0,0.0,715,0.97,2022-10-24
+U00399,Sneha Patel,24,Male,Kolkata,Bachelor,Employed,Accountant,409230.16,334871.74,13275341.86,Yes,Home,33114511.83,60,1064867.15,29.68,2.6,411,2.7,2023-05-01
+U00400,Riya Choudhary,63,Male,Coimbatore,Master,Employed,Business Owner,113942.43,54167.28,10902374.56,Yes,Business,3102583.62,24,150743.38,15.21,1.32,335,7.97,2021-08-09
+U00401,Meera Joshi,35,Male,Hyderabad,Bachelor,Employed,Accountant,193221.5,129556.1,1088246.32,No,,0.0,0,0.0,0.0,0.0,698,0.47,2023-02-25
+U00402,Divya Krishnan,68,Female,Madurai,Other,Employed,Sales Executive,41750.0,26448.62,4966959.92,Yes,Home,21139658.26,24,1001050.6,12.6,23.98,829,9.91,2025-04-20
+U00403,Lakshmi Pillai,22,Male,Madurai,Bachelor,Employed,Freelancer,41750.0,29847.08,518762.12,No,,0.0,0,0.0,0.0,0.0,694,1.04,2022-02-10
+U00404,Vikram Reddy,26,Male,Kolkata,Bachelor,Employed,Software Engineer,490251.88,265508.29,44000718.28,No,,0.0,0,0.0,0.0,0.0,688,7.48,2025-04-14
+U00405,Neha Malhotra,39,Female,Mumbai,Bachelor,Employed,Government Employee,281049.31,196500.55,8373453.48,Yes,Education,7095175.36,300,113986.68,19.11,0.41,728,2.48,2022-11-14
+U00406,Sanjai Kumar,27,Female,Kolkata,Master,Employed,Bank Manager,254770.19,165977.96,27951879.68,Yes,Home,27659209.67,360,302295.05,12.83,1.19,462,9.14,2024-02-22
+U00407,Rahul Verma,36,Male,Pune,Bachelor,Employed,Teacher,413870.26,214292.73,3854390.06,Yes,Business,2529163.23,120,39818.64,14.36,0.1,711,0.78,2024-04-07
+U00408,Kavitha Nair,38,Female,Madurai,Bachelor,Self-employed,Doctor,184506.61,128265.18,5622009.91,No,,0.0,0,0.0,0.0,0.0,342,2.54,2022-07-06
+U00409,Vikram Reddy,59,Female,Delhi,High School,Unemployed,Software Engineer,275673.58,246304.12,1984786.65,Yes,Car,34362655.64,120,715419.65,22.22,2.6,786,0.6,2024-01-15
+U00410,Meera Joshi,33,Female,Kolkata,Bachelor,Employed,Student,119762.38,68106.77,11441897.28,Yes,Home,20771073.4,24,1121758.2,26.26,9.37,752,7.96,2022-10-10
+U00411,Aditya Kumar,50,Female,Kolkata,Master,Employed,Bank Manager,76286.44,50737.1,3478571.59,Yes,Education,3077551.99,60,67098.1,11.12,0.88,404,3.8,2021-11-14
+U00412,Priya Nair,46,Male,Mumbai,Master,Unemployed,Freelancer,532337.55,210258.84,27779169.94,No,,0.0,0,0.0,0.0,0.0,379,4.35,2022-05-22
+U00413,Meera Joshi,24,Male,Chennai,Bachelor,Self-employed,Teacher,520073.07,300201.7,11594731.51,Yes,Home,9390900.98,60,292166.5,27.96,0.56,527,1.86,2023-04-23
+U00414,Manish Tiwari,47,Female,Kallakurichi,Bachelor,Employed,Freelancer,412150.99,213628.9,32931242.69,No,,0.0,0,0.0,0.0,0.0,374,6.66,2025-01-19
+U00415,Rohit Gupta,19,Male,Pune,Bachelor,Self-employed,Teacher,398787.65,274997.23,21120090.04,No,,0.0,0,0.0,0.0,0.0,809,4.41,2024-08-29
+U00416,Pooja Iyer,27,Male,Coimbatore,Bachelor,Unemployed,Business Owner,378083.82,257998.3,33665660.26,Yes,Education,13475999.87,36,564208.66,28.93,1.49,385,7.42,2021-12-19
+U00417,Riya Choudhary,26,Female,Bangalore,Bachelor,Employed,Student,286453.43,89536.22,11161693.83,No,,0.0,0,0.0,0.0,0.0,845,3.25,2024-02-21
+U00418,Swati Mishra,47,Female,Delhi,High School,Employed,Freelancer,635989.44,247550.78,60909794.77,No,,0.0,0,0.0,0.0,0.0,461,7.98,2023-08-25
+U00419,Rahul Verma,45,Female,Coimbatore,Bachelor,Unemployed,Student,438150.38,160988.0,28251121.96,Yes,Car,29591638.48,240,618500.36,24.9,1.41,610,5.37,2022-03-07
+U00420,Harish Pandey,42,Male,Kallakurichi,Bachelor,Student,Software Engineer,116800.64,40035.75,7586324.86,No,,0.0,0,0.0,0.0,0.0,436,5.41,2024-11-26
+U00421,Manish Tiwari,29,Female,Kallakurichi,Bachelor,Self-employed,Student,533504.88,316225.36,29536967.69,No,,0.0,0,0.0,0.0,0.0,337,4.61,2023-12-03
+U00422,Anjali Singh,30,Male,Mumbai,Bachelor,Self-employed,Freelancer,259385.24,79890.3,16901212.46,Yes,Business,12508460.32,36,427206.04,13.95,1.65,679,5.43,2024-11-07
+U00423,Manish Tiwari,44,Male,Hyderabad,High School,Unemployed,Business Owner,391178.3,319703.13,5092507.18,No,,0.0,0,0.0,0.0,0.0,401,1.08,2021-07-27
+U00424,Suresh Babu,43,Male,Coimbatore,Bachelor,Self-employed,Government Employee,101611.98,60443.98,577233.83,No,,0.0,0,0.0,0.0,0.0,637,0.47,2022-11-03
+U00425,Aditya Kumar,29,Female,Kolkata,High School,Employed,Freelancer,97988.92,65498.24,4174889.78,Yes,Car,34488419.99,24,1549613.88,7.35,15.81,632,3.55,2021-08-06
+U00426,Rahul Verma,25,Male,Mumbai,Bachelor,Unemployed,Software Engineer,140013.64,108972.51,10456135.53,Yes,Home,35561640.48,36,1150147.37,10.16,8.21,352,6.22,2021-10-17
+U00427,Manish Tiwari,38,Female,Coimbatore,Master,Employed,Teacher,41750.0,34713.46,2846011.5,No,,0.0,0,0.0,0.0,0.0,734,5.68,2024-06-26
+U00428,Sanjay Rao,57,Male,Hyderabad,Bachelor,Employed,Freelancer,501348.2,385641.41,32990777.36,Yes,Home,695722.0,120,17119.17,27.6,0.03,697,5.48,2024-09-25
+U00429,Neha Malhotra,38,Male,Delhi,High School,Student,Doctor,599895.73,401180.76,33354459.94,Yes,Business,22396772.47,240,399375.49,21.07,0.67,445,4.63,2024-05-05
+U00430,Lakshmi Pillai,59,Male,Delhi,Master,Employed,Software Engineer,468025.02,288676.2,5743028.96,No,,0.0,0,0.0,0.0,0.0,721,1.02,2022-02-14
+U00431,Vikram Reddy,40,Male,Hyderabad,Bachelor,Employed,Bank Manager,229290.16,88983.44,4774771.32,No,,0.0,0,0.0,0.0,0.0,318,1.74,2022-11-13
+U00432,Divya Krishnan,33,Female,Bangalore,High School,Employed,Business Owner,363535.62,165061.13,39080511.68,No,,0.0,0,0.0,0.0,0.0,703,8.96,2022-10-19
+U00433,Rahul Verma,28,Male,Kallakurichi,Bachelor,Employed,Business Owner,381112.37,325807.82,16933693.12,No,,0.0,0,0.0,0.0,0.0,719,3.7,2024-07-18
+U00434,Sanjai Kumar,35,Female,Kolkata,Bachelor,Employed,Student,67345.26,53440.0,7022389.24,No,,0.0,0,0.0,0.0,0.0,325,8.69,2023-05-18
+U00435,Meera Joshi,36,Female,Hyderabad,High School,Employed,Government Employee,254674.16,215391.59,19484118.79,Yes,Home,36451281.21,360,278214.48,8.42,1.09,346,6.38,2024-02-15
+U00436,Sanjay Rao,29,Female,Madurai,Master,Employed,Teacher,145032.82,90177.5,4672435.38,Yes,Home,17234792.45,12,1567318.38,16.44,10.81,639,2.68,2021-10-06
+U00437,Meera Joshi,60,Male,Chennai,Bachelor,Self-employed,Freelancer,169558.44,117984.66,15855414.2,No,,0.0,0,0.0,0.0,0.0,618,7.79,2024-10-02
+U00438,Lakshmi Pillai,44,Other,Kallakurichi,Bachelor,Employed,Student,160636.46,113109.1,17678351.96,No,,0.0,0,0.0,0.0,0.0,464,9.17,2023-05-31
+U00439,Deepika Rajan,61,Male,Mumbai,High School,Self-employed,Sales Executive,295402.12,213883.58,5002975.15,No,,0.0,0,0.0,0.0,0.0,344,1.41,2022-03-19
+U00440,Kavitha Nair,46,Male,Chennai,Master,Employed,Accountant,199009.72,83219.44,20480859.12,No,,0.0,0,0.0,0.0,0.0,810,8.58,2024-06-17
+U00441,Suresh Babu,36,Male,Kallakurichi,High School,Unemployed,Student,454216.62,269467.03,17950609.56,No,,0.0,0,0.0,0.0,0.0,478,3.29,2025-01-29
+U00442,Vikram Reddy,39,Male,Mumbai,Master,Employed,Software Engineer,340262.5,221964.71,16258128.86,No,,0.0,0,0.0,0.0,0.0,453,3.98,2024-03-26
+U00443,Lakshmi Pillai,44,Other,Kallakurichi,Master,Employed,Government Employee,436221.54,220249.62,40966621.37,No,,0.0,0,0.0,0.0,0.0,390,7.83,2024-03-30
+U00444,Rohit Gupta,53,Female,Kolkata,Master,Student,Software Engineer,336872.4,302258.31,39119861.06,No,,0.0,0,0.0,0.0,0.0,414,9.68,2022-01-03
+U00445,Aditya Kumar,19,Female,Kolkata,Master,Employed,Sales Executive,495659.34,359737.2,1719205.72,No,,0.0,0,0.0,0.0,0.0,751,0.29,2023-02-19
+U00446,Riya Choudhary,69,Female,Mumbai,Other,Employed,Accountant,136555.9,81423.36,12364751.81,Yes,Education,8575577.76,120,106921.75,8.63,0.78,349,7.55,2023-08-28
+U00447,Sanjay Rao,68,Female,Coimbatore,Master,Unemployed,Doctor,556357.16,343826.28,55461747.09,No,,0.0,0,0.0,0.0,0.0,557,8.31,2023-07-29
+U00448,Amit Bose,38,Male,Madurai,Master,Employed,Accountant,50473.24,24419.58,5740626.67,Yes,Home,33631704.98,120,834392.96,27.88,16.53,511,9.48,2025-05-11
+U00449,Deepika Rajan,64,Male,Hyderabad,Bachelor,Employed,Software Engineer,93646.92,60879.85,8606995.46,Yes,Business,20629535.05,120,339298.91,15.51,3.62,646,7.66,2025-05-01
+U00450,Ravi Shankar,66,Female,Pune,PhD,Employed,Freelancer,469821.1,325467.97,4021828.44,Yes,Business,17160019.87,300,270986.72,18.77,0.58,399,0.71,2025-04-19
+U00451,Kavitha Nair,51,Female,Hyderabad,High School,Unemployed,Sales Executive,319197.96,172726.43,28492044.52,Yes,Education,11957479.72,180,205166.18,19.45,0.64,424,7.44,2025-03-28
+U00452,Sneha Patel,65,Male,Madurai,Master,Employed,Accountant,432116.68,236507.9,48794224.5,No,,0.0,0,0.0,0.0,0.0,306,9.41,2023-01-29
+U00453,Arjun Sharma,54,Male,Mumbai,Bachelor,Student,Bank Manager,498979.3,261678.14,43034521.42,Yes,Car,11011695.26,12,994624.44,15.14,1.99,588,7.19,2022-10-17
+U00454,Sanjai Kumar,60,Female,Kallakurichi,Master,Self-employed,Teacher,170169.66,63115.14,5576248.57,Yes,Car,24268409.1,240,536009.05,26.36,3.15,813,2.73,2023-04-08
+U00455,Harish Pandey,57,Female,Chennai,Bachelor,Employed,Teacher,501499.33,445874.14,57656761.69,No,,0.0,0,0.0,0.0,0.0,778,9.58,2024-03-21
+U00456,Sanjay Rao,39,Female,Mumbai,High School,Self-employed,Teacher,488656.2,316112.63,28349803.94,Yes,Home,39291003.49,60,815807.52,9.01,1.67,495,4.83,2022-11-28
+U00457,Sneha Patel,45,Male,Coimbatore,Bachelor,Employed,Freelancer,41750.0,26056.18,1536703.1,No,,0.0,0,0.0,0.0,0.0,610,3.07,2021-08-04
+U00458,Manish Tiwari,46,Female,Delhi,Bachelor,Self-employed,Doctor,491283.1,424346.16,23880460.59,Yes,Education,13223941.76,60,310516.46,14.41,0.63,356,4.05,2022-12-03
+U00459,Neha Malhotra,47,Female,Delhi,Master,Employed,Bank Manager,435783.16,373569.82,34145052.13,No,,0.0,0,0.0,0.0,0.0,718,6.53,2022-10-18
+U00460,Vikram Reddy,19,Female,Kolkata,Other,Employed,Doctor,409727.82,241331.7,15214200.16,No,,0.0,0,0.0,0.0,0.0,470,3.09,2023-04-06
+U00461,Deepika Rajan,18,Male,Chennai,PhD,Employed,Doctor,300901.44,104834.25,24395576.26,No,,0.0,0,0.0,0.0,0.0,805,6.76,2024-06-06
+U00462,Swati Mishra,57,Female,Mumbai,Bachelor,Employed,Bank Manager,498450.74,168381.09,36163044.22,Yes,Car,27379598.23,300,608213.16,26.62,1.22,311,6.05,2023-03-02
+U00463,Amit Bose,52,Male,Kolkata,Master,Self-employed,Teacher,68012.42,20994.4,1352836.94,Yes,Education,15949872.74,12,1505975.94,23.71,22.14,758,1.66,2022-06-03
+U00464,Aditya Kumar,21,Male,Hyderabad,High School,Employed,Doctor,285418.03,121074.16,11682540.11,No,,0.0,0,0.0,0.0,0.0,349,3.41,2023-04-12
+U00465,Sanjai Kumar,53,Female,Pune,High School,Employed,Bank Manager,586802.93,229085.59,19303996.76,No,,0.0,0,0.0,0.0,0.0,317,2.74,2021-11-15
+U00466,Kavitha Nair,44,Male,Madurai,High School,Employed,Accountant,110351.93,34395.32,6621127.49,Yes,Home,4833743.19,120,82940.55,16.65,0.75,363,5.0,2024-04-19
+U00467,Riya Choudhary,68,Female,Coimbatore,Bachelor,Employed,Doctor,512039.54,312249.92,29012103.39,No,,0.0,0,0.0,0.0,0.0,727,4.72,2025-06-30
+U00468,Ravi Shankar,29,Female,Coimbatore,Master,Employed,Software Engineer,355153.06,214198.38,28895355.36,Yes,Car,39483567.85,120,711943.54,18.02,2.0,367,6.78,2024-12-03
+U00469,Lakshmi Pillai,42,Female,Madurai,High School,Employed,Student,120240.84,57258.46,5582361.6,No,,0.0,0,0.0,0.0,0.0,555,3.87,2024-02-20
+U00470,Manish Tiwari,59,Female,Hyderabad,PhD,Self-employed,Sales Executive,41750.0,26912.05,3316670.94,No,,0.0,0,0.0,0.0,0.0,850,6.62,2023-08-25
+U00471,Swati Mishra,49,Other,Pune,Bachelor,Student,Doctor,437596.78,305629.2,42939557.7,No,,0.0,0,0.0,0.0,0.0,308,8.18,2023-10-26
+U00472,Sanjai Kumar,65,Male,Delhi,Bachelor,Employed,Software Engineer,210964.42,71278.1,5172926.87,Yes,Education,28990020.14,300,628173.0,25.96,2.98,653,2.04,2025-04-07
+U00473,Priya Nair,30,Female,Bangalore,Bachelor,Student,Software Engineer,292045.42,171655.12,7391064.29,Yes,Education,21162853.73,300,480793.84,27.23,1.65,399,2.11,2024-04-28
+U00474,Sanjay Rao,39,Male,Delhi,Bachelor,Employed,Bank Manager,467916.46,256942.02,14482968.96,No,,0.0,0,0.0,0.0,0.0,645,2.58,2025-07-05
+U00475,Vikram Reddy,57,Male,Mumbai,Bachelor,Employed,Accountant,219833.79,120014.55,10158438.82,No,,0.0,0,0.0,0.0,0.0,589,3.85,2023-06-25
+U00476,Divya Krishnan,63,Male,Madurai,Other,Unemployed,Teacher,251267.36,204514.04,10535408.76,Yes,Business,5565971.39,120,61905.23,6.04,0.25,696,3.49,2023-02-28
+U00477,Amit Bose,36,Male,Hyderabad,PhD,Employed,Sales Executive,292751.0,246841.86,26790308.67,Yes,Home,4064256.46,36,119073.5,3.49,0.41,347,7.63,2024-10-04
+U00478,Karthik Menon,66,Female,Mumbai,Bachelor,Employed,Doctor,323362.94,183611.49,9550318.35,Yes,Education,32530090.32,180,288222.8,6.77,0.89,640,2.46,2022-01-23
+U00479,Pooja Iyer,64,Female,Kolkata,High School,Student,Accountant,188391.03,90213.4,6003907.18,No,,0.0,0,0.0,0.0,0.0,771,2.66,2023-06-30
+U00480,Karthik Menon,67,Female,Kallakurichi,Bachelor,Employed,Sales Executive,472239.26,404623.46,50627173.91,Yes,Business,562302.36,24,24759.42,5.36,0.05,304,8.93,2021-12-20
+U00481,Swati Mishra,68,Female,Chennai,Bachelor,Self-employed,Bank Manager,429678.48,289476.13,42237388.66,No,,0.0,0,0.0,0.0,0.0,413,8.19,2023-07-04
+U00482,Deepika Rajan,36,Male,Chennai,Bachelor,Self-employed,Accountant,622275.4,417626.92,40253654.12,Yes,Education,38556077.4,300,481010.94,14.57,0.77,849,5.39,2023-10-09
+U00483,Ravi Shankar,18,Female,Kolkata,Bachelor,Self-employed,Teacher,177091.81,80220.12,11912340.46,No,,0.0,0,0.0,0.0,0.0,395,5.61,2021-09-10
+U00484,Meera Joshi,48,Male,Mumbai,Bachelor,Employed,Software Engineer,629373.74,212674.5,53231244.16,No,,0.0,0,0.0,0.0,0.0,638,7.05,2021-08-08
+U00485,Lakshmi Pillai,55,Male,Chennai,Bachelor,Student,Business Owner,525508.92,166138.28,41810979.21,Yes,Car,34838821.06,360,415002.52,14.08,0.79,769,6.63,2025-01-28
+U00486,Lakshmi Pillai,45,Male,Delhi,High School,Employed,Business Owner,88130.91,51967.9,5716354.06,Yes,Car,3978137.9,24,216251.64,26.96,2.45,447,5.41,2022-02-25
+U00487,Suresh Babu,62,Male,Coimbatore,Master,Student,Student,152339.07,82067.14,4110234.9,Yes,Car,31583090.1,60,708467.44,12.37,4.65,713,2.25,2024-08-11
+U00488,Rahul Verma,56,Male,Coimbatore,Master,Employed,Student,320045.48,279370.12,22701392.99,No,,0.0,0,0.0,0.0,0.0,547,5.91,2021-12-27
+U00489,Sanjai Kumar,41,Female,Kolkata,Bachelor,Employed,Business Owner,396150.72,288450.75,42106135.85,Yes,Home,5307890.42,360,37769.56,7.68,0.1,675,8.86,2024-02-17
+U00490,Vikram Reddy,53,Male,Madurai,Bachelor,Unemployed,Government Employee,412768.06,193557.18,14014614.95,No,,0.0,0,0.0,0.0,0.0,398,2.83,2023-08-21
+U00491,Lakshmi Pillai,69,Female,Coimbatore,Master,Self-employed,Freelancer,619151.66,315204.98,13717154.55,Yes,Home,28480692.69,36,1007070.96,16.41,1.63,669,1.85,2021-08-17
+U00492,Aditya Kumar,36,Female,Hyderabad,Other,Self-employed,Freelancer,269075.41,188381.01,29428459.44,Yes,Home,4145837.62,180,48194.53,11.41,0.18,358,9.11,2023-09-12
+U00493,Meera Joshi,22,Male,Madurai,Bachelor,Employed,Accountant,389539.19,288384.78,44944720.86,No,,0.0,0,0.0,0.0,0.0,500,9.61,2024-07-12
+U00494,Sanjai Kumar,24,Female,Madurai,Bachelor,Employed,Teacher,204659.34,75662.69,10759811.67,No,,0.0,0,0.0,0.0,0.0,759,4.38,2021-12-23
+U00495,Sneha Patel,33,Male,Pune,Bachelor,Employed,Bank Manager,41750.0,24125.66,3384577.31,Yes,Car,33714983.71,300,503792.24,17.71,12.07,450,6.76,2024-07-22
+U00496,Aditya Kumar,36,Male,Kolkata,Bachelor,Unemployed,Software Engineer,170774.2,82593.19,5502468.8,Yes,Education,18919806.58,24,856640.7,8.11,5.02,750,2.69,2023-03-31
+U00497,Deepika Rajan,42,Male,Hyderabad,PhD,Employed,Sales Executive,467334.47,289831.84,56042150.58,Yes,Car,40069005.56,360,445436.6,13.07,0.95,399,9.99,2022-09-18
+U00498,Riya Choudhary,68,Male,Mumbai,Bachelor,Student,Government Employee,167770.7,90642.59,11220051.98,Yes,Education,23089005.84,120,318181.76,11.01,1.9,368,5.57,2025-06-03
+U00499,Pooja Iyer,34,Male,Delhi,High School,Self-employed,Freelancer,599336.28,516381.54,20170963.9,Yes,Car,36966957.17,60,1076161.36,24.59,1.8,615,2.8,2023-02-27
+U00500,Rohit Gupta,44,Male,Delhi,Bachelor,Employed,Accountant,534145.32,437777.98,25570445.48,No,,0.0,0,0.0,0.0,0.0,346,3.99,2024-09-04
